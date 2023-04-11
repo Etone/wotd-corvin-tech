@@ -1,7 +1,6 @@
 <script setup>
 import { onMounted, ref } from 'vue';
-import Divider from 'primevue/divider';
-import Listbox from 'primevue/listbox';
+import Card from 'primevue/card'
 
 const weekday = ref('Montag')
 const todaysWorkout = ref([])
@@ -24,15 +23,15 @@ onMounted(() => {
 </script>
 
 <template>
-    <h1>{{ weekday }}</h1>
-    <p>Todays routine: </p>
-    <p>{{ todaysWorkout }}</p>
-    <Divider />
+    <Card>
+        <template #title>
+            {{ weekday }}
+        </template>
+        <template #content>
+            <p>{{ todaysWorkout }}</p>
+        </template>
+    </Card>
 </template>
 
 <style scoped>
-h1 {
-    justify-content: center;
-    text-align: center;
-}
 </style>
