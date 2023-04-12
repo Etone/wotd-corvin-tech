@@ -1,18 +1,10 @@
 <script setup>
-import { onMounted, ref } from 'vue';
+import { inject, onMounted, ref } from 'vue';
 import Card from 'primevue/card'
 
 const weekday = ref('Montag')
 const todaysWorkout = ref([])
-const workouts = {
-    0: [],
-    1: [],
-    2: ["Pullups", "Squats"],
-    3: [],
-    4: [],
-    5: [],
-    6: [],
-}
+const workouts = inject('workout-schedule')
 
 onMounted(() => {
     let currentDay = new Date()

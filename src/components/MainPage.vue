@@ -1,13 +1,14 @@
-<script>
+<script setup>
 import WeekdayGreeting from './WeekdayGreeting.vue'
+import ExerciseCard from './ExerciseCard.vue';
+import Divider from 'primevue/divider'
+import { ref } from 'vue';
 
-export default {
-    components: {
-        WeekdayGreeting
-    }
-}
+const todaysWorkout = ref()
 </script>
 
 <template>
     <WeekdayGreeting />
+    <Divider />
+    <ExerciseCard />
 </template>
