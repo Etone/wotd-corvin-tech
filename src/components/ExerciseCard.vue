@@ -20,7 +20,11 @@ const levels = useStorage('levels', {
 defineProps(['workout'])
 
 const completeLevel = (workout) => {
-    levels.value[workout] += 1
+    if(levels.value[workout] >= exercises[workout].length) {
+        alert("Cant increase level, you are at the top already")
+    } else {
+        levels.value[workout] += 1
+    }
 }
 
 </script>
@@ -44,7 +48,4 @@ const completeLevel = (workout) => {
 </template>
 
 <style scoped>
-.p-card {
-    width: 25em;
-}
 </style>

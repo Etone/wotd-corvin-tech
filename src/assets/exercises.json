@@ -4,7 +4,10 @@
             "name": "Wall Pushups",
             "link": "https://www.hybridcalisthenics.com/wall-pushups",
             "sets": "3 x 50",
-            "form": ["ABC", "CDE"]
+            "form": [
+                "ABC",
+                "CDE"
+            ]
         }
     ],
     "Bridges": [
@@ -12,8 +15,19 @@
             "name": "Glute Bridges",
             "link": "https://www.hybridcalisthenics.com/glute-bridges",
             "sets": "3 x 50",
-            "form": ["ABC", "CDE"]
-
+            "form": [
+                "ABC",
+                "CDE"
+            ]
+        },
+        {
+            "name": "Glute Bridges",
+            "link": "https://www.hybridcalisthenics.com/glute-bridges",
+            "sets": "3 x 50",
+            "form": [
+                "ABC",
+                "CDE"
+            ]
         }
     ],
     "Twists": [
@@ -21,7 +35,10 @@
             "name": "Glute Bridges",
             "link": "https://www.hybridcalisthenics.com/glute-bridges",
             "sets": "3 x 50",
-            "form": ["ABC", "CDE"]
+            "form": [
+                "ABC",
+                "CDE"
+            ]
         }
     ]
 }
