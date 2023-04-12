@@ -26,4 +26,9 @@ onMounted(() => {
 </template>
 
 <style scoped>
+.p-card {
+    width: 25em;
+    display: flex;
+    justify-content: center;
+}
 </style>

@@ -17,7 +17,7 @@ const levels = useStorage('levels', {
     "Leg Raises": 1,
 })
 
-defineProps(['todaysWorkouts'])
+defineProps(['workout'])
 
 const completeLevel = (workout) => {
     levels.value[workout] += 1
@@ -26,7 +26,7 @@ const completeLevel = (workout) => {
 </script>
 
 <template>
-    <Card v-for="workout in todaysWorkouts">
+    <Card>
         <template #header>
             <video controls autoplay muted loop width="320" height="240">
                 <source src="../assets/loops/glute-bridge.mp4" type="video/mp4" />
@@ -42,3 +42,9 @@ const completeLevel = (workout) => {
     </Card>
     <Divider />
 </template>
+
+<style scoped>
+.p-card {
+    width: 25em;
+}
+</style>

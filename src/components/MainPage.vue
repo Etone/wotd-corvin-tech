@@ -14,5 +14,7 @@ const todaysWorkout = ref(schedule[dayOfWeek])
 <template>
     <WeekdayGreeting />
     <Divider />
-    <ExerciseCard :todaysWorkouts="todaysWorkout"/>
+    <ExerciseCard v-for="workout in todaysWorkout" :workout="workout" />
 </template>
+
+<style scoped></style>
