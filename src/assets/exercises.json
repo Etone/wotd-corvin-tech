@@ -40,5 +40,41 @@
                 "CDE"
             ]
         }
+    ],
+    "Leg Raises": [
+        {
+            "name": "Glute Bridges",
+            "link": "https://www.hybridcalisthenics.com/glute-bridges",
+            "sets": "3 x 50",
+            "form": [
+                "ABC",
+                "CDE"
+            ],
+            "video": "https://i.imgur.com/gQQFZo6.mp4"
+        }
+    ],
+    "Pullups": [
+        {
+            "name": "Glute Bridges",
+            "link": "https://www.hybridcalisthenics.com/glute-bridges",
+            "sets": "3 x 50",
+            "form": [
+                "ABC",
+                "CDE"
+            ],
+            "video": "https://i.imgur.com/gQQFZo6.mp4"
+        }
+    ],
+    "Squats": [
+        {
+            "name": "Glute Bridges",
+            "link": "https://www.hybridcalisthenics.com/glute-bridges",
+            "sets": "3 x 50",
+            "form": [
+                "ABC",
+                "CDE"
+            ],
+            "video": "https://i.imgur.com/gQQFZo6.mp4"
+        }
     ]
 }
