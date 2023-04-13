@@ -37,7 +37,7 @@ const currentWorkout = (workout) => {
 <template>
     <Card>
         <template #header>
-            <ExerciseVideo src="https://i.imgur.com/gQQFZo6.mp4"/>
+            <ExerciseVideo :src="currentWorkout(workout).video"/>
         </template>
         <template #title>{{ workout }}</template>
         <template #subtitle>Level {{ levels[workout] }} - {{ currentWorkout(workout).name }}</template>
@@ -48,9 +48,13 @@ const currentWorkout = (workout) => {
             <Button icon="pi pi-plus" label="Complete Level" @click="completeLevel(workout)" />
         </template>
     </Card>
-    <Divider />
 </template>
 
 <style scoped>
+.p-card {
+    max-width: 25em;
+    display: block;
+    margin: auto;
+}
 
 </style>

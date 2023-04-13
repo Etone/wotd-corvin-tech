@@ -7,7 +7,18 @@
             "form": [
                 "ABC",
                 "CDE"
-            ]
+            ],
+            "video": "https://i.imgur.com/gQQFZo6.mp4"
+        },
+        {
+            "name": "Wall Pushups2",
+            "link": "https://www.hybridcalisthenics.com/wall-pushups",
+            "sets": "2 x 50",
+            "form": [
+                "ABC",
+                "CDE"
+            ],
+            "video": "https://i.imgur.com/gQQFZo6.mp4"
         }
     ],
     "Bridges": [
@@ -18,7 +29,8 @@
             "form": [
                 "ABC",
                 "CDE"
-            ]
+            ],
+            "video": "https://i.imgur.com/gQQFZo6.mp4"
         },
         {
             "name": "Glute Bridges",
@@ -27,7 +39,8 @@
             "form": [
                 "ABC",
                 "CDE"
-            ]
+            ],
+            "video": "https://i.imgur.com/gQQFZo6.mp4"
         }
     ],
     "Twists": [
@@ -38,7 +51,8 @@
             "form": [
                 "ABC",
                 "CDE"
-            ]
+            ],
+            "video": "https://i.imgur.com/gQQFZo6.mp4"
         }
     ],
     "Leg Raises": [
