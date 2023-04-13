@@ -1,5 +1,4 @@
 <script setup>
-import WeekdayGreeting from './WeekdayGreeting.vue'
 import ExerciseCard from './ExerciseCard.vue';
 import Divider from 'primevue/divider'
 import Button from 'primevue/button';
@@ -13,15 +12,18 @@ const dayOfWeek = today.getDay()
 const todaysWorkout = ref(schedule[dayOfWeek])
 
 const reset = () => {
-    let localstorage = useStorage('levels')
-    localstorage.value = null
+    let levels = useStorage('levels', {})
+    Object.keys(levels.value).forEach((exercise) => {
+        levels.value[exercise] = 1
+    })
 }
 </script>
 
 <template>
-    <WeekdayGreeting />
-    <Divider />
-    <ExerciseCard v-for="workout in todaysWorkout" :workout="workout" />
+    <div v-for="workout in todaysWorkout">
+        <ExerciseCard  :workout="workout" />
+        <Divider />
+    </div>
     <Button label="RESET LOCAL STROAGE" @click="reset()" />
 </template>
 

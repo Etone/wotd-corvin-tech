@@ -1,10 +1,10 @@
 <script setup>
 import { useStorage } from '@vueuse/core'
-import { inject, onMounted } from 'vue';
+import { inject } from 'vue';
 import Card from 'primevue/card';
-import Divider from 'primevue/divider';
 import Button from 'primevue/button'
 import ExerciseDetails from './ExerciseDetails.vue'
+import ExerciseVideo from './ExerciseVideo.vue'
 
 const exercises = inject('workout-exercises')
 
@@ -20,11 +20,15 @@ const levels = useStorage('levels', {
 defineProps(['workout'])
 
 const completeLevel = (workout) => {
-    if(levels.value[workout] >= exercises[workout].length) {
+    if (levels.value[workout] >= exercises[workout].length) {
         alert("Cant increase level, you are at the top already")
     } else {
         levels.value[workout] += 1
     }
+}
+
+const currentWorkout = (workout) => {
+    return exercises[workout][levels.value[workout] - 1]
 }
 
 </script>
@@ -32,20 +36,33 @@ const completeLevel = (workout) => {
 <template>
     <Card>
         <template #header>
-            <video controls autoplay muted loop width="320" height="240">
-                <source src="../assets/loops/glute-bridge.mp4" type="video/mp4" />
-            </video>
+            <ExerciseVideo :src="currentWorkout(workout).video" />
         </template>
-        <template #title>{{ workout }} (current Level: {{ levels[workout] }})</template>
+        <template #title>{{ workout }}</template>
+        <template #subtitle><a :href="currentWorkout(workout).link" target="_blank">Level {{ levels[workout] }} - {{
+            currentWorkout(workout).name }}</a></template>
         <template #content>
-            <ExerciseDetails :workout="exercises[workout][levels[workout] - 1]" />
+            <ExerciseDetails :workout="currentWorkout(workout)" />
         </template>
         <template #footer>
-            <Button icon="pi pi-plus" label="Complete Level" @click="completeLevel(workout)" />
+            <Button icon="pi pi-check" :label="currentWorkout(workout).sets" @click="completeLevel(workout)" />
         </template>
     </Card>
-    <Divider />
 </template>
 
 <style scoped>
+.p-card {
+    max-width: 25em;
+    display: block;
+    margin: auto;
+}
+
+.p-card-subtitle>a {
+    color: inherit;
+}
+
+.p-card-footer > button{
+    display: block;
+    margin: auto;
+}
 </style>
