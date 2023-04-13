@@ -45,7 +45,7 @@ const currentWorkout = (workout) => {
             <ExerciseDetails :workout="currentWorkout(workout)" />
         </template>
         <template #footer>
-            <Button icon="pi pi-plus" label="Complete Level" @click="completeLevel(workout)" />
+            <Button icon="pi pi-check" :label="currentWorkout(workout).sets" @click="completeLevel(workout)" />
         </template>
     </Card>
 </template>
@@ -59,5 +59,10 @@ const currentWorkout = (workout) => {
 
 .p-card-subtitle>a {
     color: inherit;
+}
+
+.p-card-footer > button{
+    display: block;
+    margin: auto;
 }
 </style>
