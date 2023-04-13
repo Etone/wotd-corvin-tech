@@ -1,8 +1,7 @@
 <script setup>
 import { useStorage } from '@vueuse/core'
-import { inject, onMounted } from 'vue';
+import { inject } from 'vue';
 import Card from 'primevue/card';
-import Divider from 'primevue/divider';
 import Button from 'primevue/button'
 import ExerciseDetails from './ExerciseDetails.vue'
 import ExerciseVideo from './ExerciseVideo.vue'
@@ -29,7 +28,7 @@ const completeLevel = (workout) => {
 }
 
 const currentWorkout = (workout) => {
-    return exercises[workout][levels.value[workout]-1]
+    return exercises[workout][levels.value[workout] - 1]
 }
 
 </script>
@@ -37,10 +36,11 @@ const currentWorkout = (workout) => {
 <template>
     <Card>
         <template #header>
-            <ExerciseVideo :src="currentWorkout(workout).video"/>
+            <ExerciseVideo :src="currentWorkout(workout).video" />
         </template>
         <template #title>{{ workout }}</template>
-        <template #subtitle>Level {{ levels[workout] }} - {{ currentWorkout(workout).name }}</template>
+        <template #subtitle><a :href="currentWorkout(workout).link" target="_blank">Level {{ levels[workout] }} - {{
+            currentWorkout(workout).name }}</a></template>
         <template #content>
             <ExerciseDetails :workout="currentWorkout(workout)" />
         </template>
@@ -57,4 +57,7 @@ const currentWorkout = (workout) => {
     margin: auto;
 }
 
+.p-card-subtitle>a {
+    color: inherit;
+}
 </style>
