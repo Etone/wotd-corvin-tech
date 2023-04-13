@@ -3,23 +3,150 @@
         {
             "name": "Wall Pushups",
             "link": "https://www.hybridcalisthenics.com/wall-pushups",
-            "sets": "3 sets of 50",
+            "sets": "3 Sets of 50",
             "form": [
                 "Slow and steady wins the race on this exercise. Don’t just speed through these. Find a controlled, rhythmic pace to really feel this movement. 2 Seconds Down, 1 Second Pause, 2 Seconds Up. Repeat",
                 "Keep your hands around chest height. Hands placed too high put more work on our elbows than we need at the moment. Hands placed too low make it difficult to keep our palms flat. A good “rule of thumb” is being able to maintain flat palms and feel a slight stretch in your wrist while your arms are straight.",
-                 "Keep your body firm. Don’t arch your body at the bottom to make the motion easier. Core strength is important for all calisthenics, and this is a great place to start building it."
+                "Keep your body firm. Don’t arch your body at the bottom to make the motion easier. Core strength is important for all calisthenics, and this is a great place to start building it."
             ],
             "video": "https://i.imgur.com/CRilC1v.mp4"
         },
         {
-            "name": "Wall Pushups2",
-            "link": "https://www.hybridcalisthenics.com/wall-pushups",
-            "sets": "2 x 50",
+            "name": "Incline Pushups",
+            "link": "https://www.hybridcalisthenics.com/incline-pushups",
+            "sets": "3 Sets of 40",
             "form": [
-                "ABC",
-                "CDE"
+                "You may not be able to find something exactly at sternum height. That’s okay. Work with what you have. Just make sure the base is safe and secure. Safety first! You can push the object against a wall for extra stability.",
+                "Like with Wall Pushups, how you position your hands relative to your body makes a difference. At the bottom position of the exercise, your hands should be next to your chest. If they’re by your shoulders, try to move your feet closer or find a slightly lower base.",
+                "Your core strength begins to get tested here. Keep your body firm and straight. Don’t let your lower back sag. These earlier variations will help build a solid foundation for the harder Pushups!",
+                "Keep your arms approximately shoulder width apart.",
+                "Keep your feet together."
             ],
-            "video": "https://i.imgur.com/gQQFZo6.mp4"
+            "video": "https://i.imgur.com/CiG06sW.mp4"
+        },
+        {
+            "name": "Advanced Incline Pushups",
+            "link": "https://www.hybridcalisthenics.com/wall-pushup",
+            "sets": "3 Sets of 35",
+            "form": [
+                "Filming yourself and watching back is a good idea for all exercises, but especially this one. You can even review your form as you’re resting between sets. If your butt is too high or your lower back is sagging, adjust as needed and try again!",
+                "You may not be able to find something exactly at hip height. That’s okay. Work with what you have. Just make sure the base is safe and secure. Safety first! You can push the object against a wall for extra stability.",
+                "Like with Wall Pushups, how you position your hands relative to your body makes a difference. At the bottom position of the exercise, your hands should be next to your chest. If they’re by your shoulders, try to move your feet closer or find a slightly lower base.",
+                "Your core strength begins to get tested here. Keep your body firm and straight. Don’t let your lower back sag. These earlier variations will help build a solid foundation for the harder Pushups!",
+                "Keep your arms approximately shoulder width apart.",
+                "Keep your feet together."
+            ],
+            "video": "https://i.imgur.com/m6jfEMA.mp4"
+        },
+        {
+            "name": "Knee Pushups",
+            "link": "https://www.hybridcalisthenics.com/knee-pushups",
+            "sets": "3 Sets of 30",
+            "form": [
+                "For some reason, it’s common to let the lower back sag during this exercise. Do your best to keep your body aligned from your head to your knees.",
+                "Place your hands below your chest. They shouldn’t be too far towards your head or towards your knees. Find the balance.",
+                "Some people have wrist pain during this exercise. Doing some warmups with the easier variations can help. Stretch your wrists beforehand.",
+                "Keep your arms approximately shoulder width apart.",
+                "Keep your knees together."
+            ],
+            "video": "https://i.imgur.com/RfzFmCe.mp4"
+        },
+        {
+            "name": "Full Pushups",
+            "link": "https://www.hybridcalisthenics.com/full-pushups",
+            "sets": "3 Sets of 25",
+            "form": [
+                "You might be tempted to sag your lower body or chest. This makes this exercise easier by allowing you to touch your chest despite not descending as deeply. Keep your body aligned from your head to your feet!",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Place your hands below your chest. They shouldn’t be too far towards your head or towards your knees. Find the balance.",
+                "Some people have wrist pain during this exercise. Doing some warmups with the easier variations can help. Stretch your wrists beforehand.",
+                "If you have a wrist injury, doing these on your knuckles is a temporary solution.",
+                "Keep your arms approximately shoulder width apart.",
+                "Keep your feet together."
+            ],
+            "video": "https://i.imgur.com/KoqifTm.mp4"
+        },
+        {
+            "name": "Narrow Pushups",
+            "link": "https://www.hybridcalisthenics.com/narrow-pushups",
+            "sets": "3 Sets of 20",
+            "form": [
+                "Your thumbs don’t have to form a “diamond.” Doing this flares your elbows a bit more, which increases pectoral activation. However, if this irritates your elbow, you can tuck your thumbs in for now. Just touch your index fingers together. You can always come back to this when you’re stronger.",
+                "If touching the tip of your index fingers is too difficult, simply start with a Full Pushup and move your hands a few inches closer together. Work these until you feel strong enough to move them closer again. Repeat.",
+                "Keep your body aligned. Don’t sag!",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Place your hands below your chest. They shouldn’t be too far towards your head or towards your knees. Find the balance.",
+                "Some people have wrist pain during this exercise. Doing some warmups with the easier variations can help. Stretch your wrists beforehand.",
+                "Keep your feet together."
+            ],
+            "video": "https://i.imgur.com/47ZKzYb.mp4"
+        },
+        {
+            "name": "Side-Staggered Pushups",
+            "link": "https://www.hybridcalisthenics.com/side-staggered-pushups",
+            "sets": "2 Sets of 20 (Per Side)",
+            "form": [
+                "Try to go straight up and down. If you find yourself leaning towards your assisting arm, then simply bring it closer until you’re able to go straight up and down. Leaning makes the exercise easier.",
+                "Start with your assisting arm 2 palms’ length away from your torso. Adjust as needed.",
+                "Keep your body aligned. Don’t sag!",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keep your feet together."
+            ],
+            "video": "https://i.imgur.com/dAYUuLS.mp4"
+        },
+        {
+            "name": "Archer Pushups",
+            "link": "https://www.hybridcalisthenics.com/archer-pushups",
+            "sets": "2 Sets of 12 (Per Side)",
+            "form": [
+                "Work one side at a time to maintain time under tension.",
+                "Unlike the Side-Staggered Pushups, we DON’T want to go straight up and down. Lean heavily towards your working arm.",
+                "Start with your arms twice shoulder width. Ideally, both arms would be straight at the beginning.",
+                "Do your best to keep your body aligned from your feet to your head. Your hips may lean one way at first. Straighten over time.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keep your feet together."
+            ],
+            "video": "https://i.imgur.com/0OvsOOd.mp4"
+        },
+        {
+            "name": "Sliding One-Arm Pushups",
+            "link": "https://www.hybridcalisthenics.com/sliding-onearm-pushups",
+            "sets": "2 Sets of 12 (Per Side)",
+            "form": [
+                "Work one side at a time to maintain time under tension.",
+                "Go straight up and down. If your body starts to lean towards your supporting arm, concentrate on tensing your core muscles to bring it back straight.",
+                "Start with your arms twice shoulder width and then move your working hand under your chest.",
+                "Do your best to keep your body aligned from your feet to your head. Your hips may lean one way at first. Straighten over time.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keep your feet together."
+            ],
+            "video": "https://i.imgur.com/dQwtP49.mp4"
+        },
+        {
+            "name": "One-Arm Pushups",
+            "link": "https://www.hybridcalisthenics.com/onearm-pushups",
+            "sets": "2 Sets of 9 (Per Side)",
+            "form": [
+                "Keep your feet a bit wider than shoulder width. This is the first Pushup variation in this series where your feet aren’t together. This is for balance reasons.",
+                "Work one side at a time to maintain time under tension.",
+                "Try to keep your shoulders parallel to the ground. Tilting your non-working shoulder away from the ground can make this movement much easier. This is okay at first. Over time, level out your shoulders.",
+                "Try to go straight up and down. Even very strong athletes sometimes have a slight shift at the bottom. This is weakness in this range of motion. Again, it may be unavoidable at first. Control it over time.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful."
+            ],
+            "video": "https://imgur.com/G5JC7tC"
+        },
+        {
+            "name": "Advanced One-Arm Pushups",
+            "link": "https://www.hybridcalisthenics.com/advanced-onearm-pushups",
+            "sets": "2 Sets of 9 (Per Side)",
+            "form": [
+                "Keep your feet together and allow your waist to twist towards your working side. Balance will require you to twist more on the descent.",
+                "Try to keep your shoulders parallel to the ground. Tilting your non-working shoulder away from the ground can make this movement much easier. This is okay at first. Over time, level out your shoulders.",
+                "Try to go straight up and down. Even very strong athletes sometimes have a slight shift at the bottom. This is weakness in this range of motion. Again, it may be unavoidable at first. Control it over time.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keep your feet together."
+            ],
+            "video": "https://i.imgur.com/yqLzcg2.mp4"
         }
     ],
     "Bridges": [
