@@ -1,10 +1,11 @@
 <script setup>
 import { useStorage } from '@vueuse/core'
-import { inject } from 'vue';
-import Card from 'primevue/card';
+import { inject, onMounted, ref } from 'vue';
 import Button from 'primevue/button'
-import ExerciseDetails from './ExerciseDetails.vue'
+import Card from 'primevue/card';
+import Sidebar from 'primevue/sidebar';
 import ExerciseVideo from './ExerciseVideo.vue'
+import ListDetails from './ListDetails.vue';
 
 const exercises = inject('workout-exercises')
 
@@ -17,7 +18,12 @@ const levels = useStorage('levels', {
     "Leg Raises": 1,
 })
 
+const instructionsVisible = ref(false)
+const formVisible = ref(false)
+
+
 defineProps(['workout'])
+
 
 const completeLevel = (workout) => {
     if (levels.value[workout] >= exercises[workout].length) {
@@ -31,6 +37,11 @@ const currentWorkout = (workout) => {
     return exercises[workout][levels.value[workout] - 1]
 }
 
+const currentWorkoutLink = (workout) => {
+    let link = currentWorkout(workout).name.split(' ').map((str) => str.toLowerCase()).join('-')
+    return `https://www.hybridcalisthenics.com/${link}`
+}
+
 </script>
 
 <template>
@@ -39,10 +50,23 @@ const currentWorkout = (workout) => {
             <ExerciseVideo :src="currentWorkout(workout).video" />
         </template>
         <template #title>{{ workout }}</template>
-        <template #subtitle><a :href="currentWorkout(workout).link" target="_blank">Level {{ levels[workout] }} - {{
+        <template #subtitle><a :href="currentWorkoutLink(workout)" target="_blank">Level {{ levels[workout] }} - {{
             currentWorkout(workout).name }}</a></template>
         <template #content>
-            <ExerciseDetails :workout="currentWorkout(workout)" />
+            <div class="flex">
+                <Sidebar v-model:visible="instructionsVisible">
+                    <h2>Instructions</h2>
+                    <ListDetails :items="[]" />
+                </Sidebar>
+
+                <Sidebar v-model:visible="formVisible">
+                    <h2>Form Cues</h2>
+                    <ListDetails :items="[]" />
+                </Sidebar>
+
+                <Button icon="pi pi-info-circle" label="Instructions" @click="instructionsVisible = true" />
+                <Button icon="pi pi-info-circle" label="Form" @click="formVisible = true" />
+            </div>
         </template>
         <template #footer>
             <Button icon="pi pi-check" :label="currentWorkout(workout).sets" @click="completeLevel(workout)" />
@@ -61,8 +85,13 @@ const currentWorkout = (workout) => {
     color: inherit;
 }
 
-.p-card-footer > button{
+.p-card-footer>button {
     display: block;
     margin: auto;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
 }
 </style>

@@ -1,11 +1,11 @@
 <script setup>
-defineProps(['workout'])
+defineProps(['items'])
 </script>
 
 <template>
     <ul>
-        <li v-for="hint in workout.form">
-            {{ hint }}
+        <li v-for="item in items">
+            {{ item }}
         </li>
     </ul>
 </template>
