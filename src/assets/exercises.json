@@ -4,94 +4,1224 @@
             "name": "Wall Pushups",
             "sets": "3 Sets of 50",
             "form": [
-                "Slow and steady wins the race on this exercise. Don’t just speed through these. Find a controlled, rhythmic pace to really feel this movement. 2 Seconds Down, 1 Second Pause, 2 Seconds Up. Repeat",
+                "Slow and steady wins the race on this exercise. Don’t just speed through these. Find a controlled, rhythmic pace to really feel this movement. 2 Seconds Down, 1 Second Pause, 2 Seconds Up. Repeat.",
                 "Keep your hands around chest height. Hands placed too high put more work on our elbows than we need at the moment. Hands placed too low make it difficult to keep our palms flat. A good “rule of thumb” is being able to maintain flat palms and feel a slight stretch in your wrist while your arms are straight.",
-                 "Keep your body firm. Don’t arch your body at the bottom to make the motion easier. Core strength is important for all calisthenics, and this is a great place to start building it."
+                "Keep your body firm. Don’t arch your body at the bottom to make the motion easier. Core strength is important for all calisthenics, and this is a great place to start building it."
             ],
             "tutorial": [
-
+                "Stand at arm’s length facing a wall.",
+                "Place your flat palms on the wall. Your arms should be straight.",
+                "Descend slowly until your head gently touches the wall. ",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat"
             ],
             "video": "https://i.imgur.com/CRilC1v.mp4"
         },
         {
-            "name": "Wall Pushups2",
-            "link": "https://www.hybridcalisthenics.com/wall-pushups",
-            "sets": "2 x 50",
+            "name": "Incline Pushups",
+            "sets": "3 Sets of 40",
             "form": [
-                "ABC",
-                "CDE"
+                "You may not be able to find something exactly at sternum height. That’s okay. Work with what you have. Just make sure the base is safe and secure. Safety first! You can push the object against a wall for extra stability. ",
+                "Like with Wall Pushups, how you position your hands relative to your body makes a difference. At the bottom position of the exercise, your hands should be next to your chest. If they’re by your shoulders, try to move your feet closer or find a slightly lower base.",
+                "Your core strength begins to get tested here. Keep your body firm and straight. Don’t let your lower back sag. These earlier variations will help build a solid foundation for the harder Pushups!",
+                "Keep your arms approximately shoulder width apart.",
+                "Keep your feet together."
             ],
-            "video": "https://i.imgur.com/gQQFZo6.mp4"
+            "tutorial": [
+                "Stand facing your base - it should be approximately sternum height.",
+                "Lean forward and place your hands on the base. Your arms should be straight.",
+                "Descend slowly until your chest gently touches the base. Your hands may brush your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat"
+            ],
+            "video": "https://i.imgur.com/CiG06sW.mp4"
+        },
+        {
+            "name": "Advanced Incline Pushups",
+            "sets": "3 Sets of 35",
+            "form": [
+                "Filming yourself and watching back is a good idea for all exercises, but especially this one. You can even review your form as you’re resting between sets. If your butt is too high or your lower back is sagging, adjust as needed and try again!",
+                "You may not be able to find something exactly at hip height. That’s okay. Work with what you have. Just make sure the base is safe and secure. Safety first! You can push the object against a wall for extra stability. ",
+                "Like with Wall Pushups, how you position your hands relative to your body makes a difference. At the bottom position of the exercise, your hands should be next to your chest. If they’re by your shoulders, try to move your feet closer or find a slightly lower base.",
+                "Your core strength begins to get tested here. Keep your body firm and straight. Don’t let your lower back sag. These earlier variations will help build a solid foundation for the harder Pushups!",
+                "Keep your arms approximately shoulder width apart.",
+                "Keep your feet together."
+            ],
+            "tutorial": [
+                "Stand facing your base - it should be approximately hip height.",
+                "Lean forward and place your hands on the base. Your arms should be straight.",
+                "Descend slowly until your chest gently touches the base. Your hands may brush your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat"
+            ],
+            "video": "https://i.imgur.com/m6jfEMA.mp4"
+        },
+        {
+            "name": "Knee Pushups",
+            "sets": "3 Sets of 30",
+            "form": [
+                "For some reason, it’s common to let the lower back sag during this exercise. Do your best to keep your body aligned from your head to your knees.",
+                "Place your hands below your chest. They shouldn’t be too far towards your head or towards your knees. Find the balance.",
+                "Some people have wrist pain during this exercise. Doing some warmups with the easier variations can help. Stretch your wrists beforehand.",
+                "Keep your arms approximately shoulder width apart.",
+                "Keep your knees together."
+            ],
+            "tutorial": [
+                "Kneel on the floor with your knees together. ",
+                "Lean forward and place your hands on the ground. Your arms should be straight and your body aligned from your head to knees.",
+                "Descend slowly until your chest gently touches the floor. Your hands may brush your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat"
+            ],
+            "video": "https://i.imgur.com/m6jfEMA.mp4"
+        },
+        {
+            "name": "Full Pushups",
+            "sets": "3 Sets of 25",
+            "form": [
+                "You might be tempted to sag your lower body or chest. This makes this exercise easier by allowing you to touch your chest despite not descending as deeply. Keep your body aligned from your head to your feet!",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Place your hands below your chest. They shouldn’t be too far towards your head or towards your knees. Find the balance.",
+                "Some people have wrist pain during this exercise. Doing some warmups with the easier variations can help. Stretch your wrists beforehand.",
+                "If you have a wrist injury, doing these on your knuckles is a temporary solution.",
+                "Keep your arms approximately shoulder width apart.",
+                "Keep your feet together."
+            ],
+            "tutorial": [
+                "Kneel on the floor with your knees together. ",
+                "Lean forward and place your hands on the ground. Straighten your knees. Your arms should be straight and your body aligned from your head to knees.",
+                "Descend slowly until your chest gently touches the floor. Your hands may brush your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat"
+            ],
+            "video": "https://i.imgur.com/KoqifTm.mp4"
+        },
+        {
+            "name": "Narrow Pushups",
+            "sets": "3 Sets of 20",
+            "form": [
+                "Your thumbs don’t have to form a “diamond.” Doing this flares your elbows a bit more, which increases pectoral activation. However, if this irritates your elbow, you can tuck your thumbs in for now. Just touch your index fingers together. You can always come back to this when you’re stronger.",
+                "If touching the tip of your index fingers is too difficult, simply start with a Full Pushup and move your hands a few inches closer together. Work these until you feel strong enough to move them closer again. Repeat.",
+                "Keep your body aligned. Don’t sag!",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Place your hands below your chest. They shouldn’t be too far towards your head or towards your knees. Find the balance.",
+                "Some people have wrist pain during this exercise. Doing some warmups with the easier variations can help. Stretch your wrists beforehand.",
+                "Keep your feet together."
+            ],
+            "tutorial": [
+                "Kneel on the floor with your knees together. ",
+                "Lean forward and place your hands on the ground. The tip of your index fingers should be touching.",
+                "Straighten your knees. Your arms should be straight and your body aligned from your head to knees.",
+                "Descend slowly until your chest gently touches the floor. Your hands may brush your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 4-7."
+            ],
+            "video": "https://i.imgur.com/47ZKzYb.mp4"
+        },
+        {
+            "name": "Side-Staggered Pushups",
+            "sets": "2 Sets of 20 (Both Sides)",
+            "form": [
+                "Try to go straight up and down. If you find yourself leaning towards your assisting arm, then simply bring it closer until you’re able to go straight up and down. Leaning makes the exercise easier.",
+                "Start with your assisting arm 2 palms’ length away from your torso. Adjust as needed.",
+                "Keep your body aligned. Don’t sag!",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keep your feet together."
+            ],
+            "tutorial": [
+                "Kneel on the floor with your knees together. ",
+                "Lean forward and place your hands on the ground. Place your working hand under your chest and your assisting arm 2 palms'‘ length away from your torso.",
+                "Straighten your knees. Your arms should be straight and your body aligned from your head to knees.",
+                "Descend straight down slowly until your chest gently touches the floor. Your working hand may brush your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 4-7."
+            ],
+            "video": "https://i.imgur.com/dAYUuLS.mp4"
+        },
+        {
+            "name": "Archer Pushups",
+            "sets": "2 Sets of 12 (Both Sides)",
+            "form": [
+                "Work one side at a time to maintain time under tension.",
+                "Unlike the Side-Staggered Pushups, we DON’T want to go straight up and down. Lean heavily towards your working arm.",
+                "Start with your arms twice shoulder width. Ideally, both arms would be straight at the beginning.",
+                "Do your best to keep your body aligned from your feet to your head. Your hips may lean one way at first. Straighten over time.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keep your feet together."
+            ],
+            "tutorial": [
+                "Kneel on the floor with your knees together. ",
+                "Lean forward and place your hands twice shoulder width on the ground.",
+                "Straighten your knees. Your arms should be straight and your body aligned from your head to knees.",
+                "Keeping your support arm straight, descend towards your working hand slowly until your chest gently touches the floor. Your working hand may brush your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 4-7."
+            ],
+            "video": "https://i.imgur.com/dAYUuLS.mp4"
+        },
+        {
+            "name": "Sliding One-Arm Pushups",
+            "sets": "2 Sets of 12 (Both Sides)",
+            "form": [
+                "Work one side at a time to maintain time under tension.",
+                "Go straight up and down. If your body starts to lean towards your supporting arm, concentrate on tensing your core muscles to bring it back straight.",
+                "Start with your arms twice shoulder width and then move your working hand under your chest.",
+                "Do your best to keep your body aligned from your feet to your head. Your hips may lean one way at first. Straighten over time.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keep your feet together."
+            ],
+            "tutorial": [
+                "Kneel on the floor with your knees together. ",
+                "Lean forward and place your hands one the ground. One underneath your chest (like in Full Pushups) and the other held away from your body.",
+                "Straighten your knees. Your arms should be straight and your body aligned from your head to knees.",
+                "Descend straight down slowly until your chest gently touches the floor. Your working hand may brush your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 4-7."
+            ],
+            "video": "https://i.imgur.com/dQwtP49.mp4"
+        },
+        {
+            "name": "One-Arm Pushups",
+            "sets": "2 Sets of 9 (Both Sides)",
+            "form": [
+                "Keep your feet a bit wider than shoulder width. This is the first Pushup variation in this series where your feet aren’t together. This is for balance reasons.",
+                "Work one side at a time to maintain time under tension.",
+                "Try to keep your shoulders parallel to the ground. Tilting your non-working shoulder away from the ground can make this movement much easier. This is okay at first. Over time, level out your shoulders.",
+                "Try to go straight up and down. Even very strong athletes sometimes have a slight shift at the bottom. This is weakness in this range of motion. Again, it may be unavoidable at first. Control it over time.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful."
+            ],
+            "tutorial": [
+                "Kneel on the floor with your knees shoulder width apart.",
+                "Lean forward and place one hand on the ground. Place the other on your thigh.",
+                "Straighten your knees. Your working arm should be straight and your body aligned from your head to your hips.",
+                "Descend straight down slowly until your chest gently touches the floor. Your working hand may brush your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 4-7."
+            ],
+            "video": "https://i.imgur.com/G5JC7tC.mp4"
+        },
+        {
+            "name": "Advanced One-Arm Pushups",
+            "sets": "2 Sets of 9 (Both Sides)",
+            "form": [
+                "Keep your feet together and allow your waist to twist towards your working side. Balance will require you to twist more on the descent.",
+                "Try to keep your shoulders parallel to the ground. Tilting your non-working shoulder away from the ground can make this movement much easier. This is okay at first. Over time, level out your shoulders.",
+                "Try to go straight up and down. Even very strong athletes sometimes have a slight shift at the bottom. This is weakness in this range of motion. Again, it may be unavoidable at first. Control it over time.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keep your feet together."
+            ],
+            "tutorial": [
+                "Kneel on the floor with your knees together.",
+                "Lean forward and place one hand on the ground. Place the other on your thigh.",
+                "Straighten your knees. Your working arm should be straight and your body aligned from your head to your feet. Your heels should touch.",
+                "Descend straight down slowly until your chest gently touches the floor. Your working hand may brush your chest. Your body will be curved.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 4-7."
+            ],
+            "video": "https://i.imgur.com/yqLzcg2.mp4"
         }
     ],
     "Bridges": [
         {
             "name": "Glute Bridges",
-            "link": "https://www.hybridcalisthenics.com/glute-bridges",
-            "sets": "3 x 50",
+            "sets": "3 Sets of 50",
             "form": [
-                "ABC",
-                "CDE"
+                "Your foot placement affects difficulty. Try to keep your shins perpendicular to the ground and/or have your heels a few inches from your butt.",
+                "Try to avoid sagging at the hips. If this is difficult, moving your feet closer or pressing more with your arms sometimes helps.",
+                "Have your legs around shoulder width apart.",
+                "Your feet should point forward or slightly out.",
+                "Slow and steady wins the race on this exercise. Don’t just speed through these. Find a controlled, rhythmic pace to really feel this movement. 2 Seconds Down, 1 Second Pause, 2 Seconds Up. Repeat.",
+                "Try to keep your back neutral throughout the exercise. ",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips. This is similar to the movement of Jackknife Squats and Jackknife Pullups!"
+            ],
+            "tutorial": [
+                "Lie on your back with your knees bent. Your legs should be shoulder width apart.",
+                "Contract your glutes while maintaining a neutral back. This should thrust your hips upward.",
+                "Continue this movement until your thighs, trunk, and torso are in a straight line.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 2-6."
             ],
             "video": "https://i.imgur.com/gQQFZo6.mp4"
         },
         {
-            "name": "Glute Bridges",
-            "link": "https://www.hybridcalisthenics.com/glute-bridges",
-            "sets": "3 x 50",
+            "name": "Straight Bridges",
+            "sets": "3 Sets of 30",
             "form": [
-                "ABC",
-                "CDE"
+                "Ideal form in this exercise starts from your body at slightly wider than a right angle and transitions into a straight line. This will involve your shoulder blades retracting, which may help you with your overall posture.",
+                "Try to avoid sagging at the hips. If this is difficult, try bending your knees a bit.",
+                "Have your legs together.",
+                "Your feet should point forward or slightly out. Point your toes forward.",
+                "Try to keep your back neutral throughout the exercise. ",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips. This is similar to the movement of Jackknife Squats and Jackknife Pullups!"
             ],
-            "video": "https://i.imgur.com/gQQFZo6.mp4"
+            "tutorial": [
+                "Sit on the floor with your legs in front of you. Your palms should be by your hips. Your body should form an angle slightly wider than a right angle.",
+                "Push through your arms and contract your glutes to begin the movement. Keep your arms and legs straight and bring your shoulders back.",
+                "Continue this movement until your body is in a straight line supported by your heels and palms.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 2-6.,"
+            ],
+            "video": "https://i.imgur.com/Q8KXvYa.mp4"
+        },
+        {
+            "name": "Wall Bridges",
+            "sets": "3 Sets of 30",
+            "form": [
+                "Breathe normally throughout this exercise. This is very important. The new positioning in our body can make our blood rush to and from our head. If we hold our breath and suddenly release it, this may result in severe dizziness. ",
+                "If you feel dizzy, stop immediately and take a break. Walk around the room while breathing normally before returning to your exercise set.",
+                "Try to externally rotate your shoulders during this exercise. This meaning rotating your upper arms away from your body. It may help you to envision trying to bring your elbows together.",
+                "Your feet should point forward or slightly out. Point your toes forward.",
+                "Try to arch your back evenly. Don’t hinge at one point while keeping the rest straight. Imagine your back being as curved as the letter U.",
+                "Your abs will stretch during this exercise. You can maintain tension in them - but they should stretch to allow your lower back to contract. This is normal!"
+            ],
+            "tutorial": [
+                "Stand 12” away from a wall. Your arms should be by your side and your legs shoulder width apart.",
+                "Bring your arms back until your palms touch the wall. Your fingers should be pointed down.",
+                "Lean backwards, trying to move one spinal vertebrae at a time, until your head gently touches the wall.",
+                "Pause for 1 Second.",
+                "Slowly reverse the movement.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/Q8KXvYa.mp4"
+        },
+        {
+            "name": "Incline Bridges",
+            "sets": "2 Sets of 25",
+            "form": [
+                "Your wrist positioning is key on this exercise. Don’t have your wrists so far back that they have to contort to support your body. If you’re using a bench, place them on the edge.",
+                "Use a stable platform. Make sure it does not wiggle around or move. Anything glass or fragile is out of the question.",
+                "Using a “squishy” surface like a bed might make this exercise harder on your wrists. A stable bench is a good standard for this exercise.",
+                "Breathe normally throughout this exercise. This is very important. The new positioning in our body can make our blood rush to and from our head. If we hold our breath and suddenly release it, this may result in severe dizziness. ",
+                "If you feel dizzy, stop immediately and take a break. Walk around the room while breathing normally before returning to your exercise set.",
+                "Try to externally rotate your shoulders during this exercise. This meaning rotating your upper arms away from your body. It may help you to envision trying to bring your elbows together.",
+                "Your feet should point forward or slightly out. Point your toes forward.",
+                "Try to arch your back evenly. Don’t hinge at one point while keeping the rest straight. Imagine your back being as curved as the letter U.",
+                "Your abs will stretch during this exercise. You can maintain tension in them - but they should stretch to allow your lower back to contract. This is normal!"
+            ],
+            "tutorial": [
+                "Sit in front of a platform around thigh height. A bench is a good standard. Your arms should be by your side and your legs shoulder width apart.",
+                "Lean back until your head and palms touch the object. Lift your hips until your body is support by your head, palms, and feet.",
+                "Lean backwards, trying to move on spinal vertebrae at a time, until your body is arched and your head is clear of the platform.",
+                "Pause for 1 Second.",
+                "Slowly reverse the movement.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/rLAUVkm.mp4"
+        },
+        {
+            "name": "Head Bridges",
+            "sets": "2 Sets of 25",
+            "form": [
+                "It’s important to find the right platform for this exercise. Make sure it is safe, secure, and stable. You do not want to fall on the platform. However, if you do, make sure it can support your weight. A cushioned stool may work well.",
+                "Try to keep your bridge “even.” Don’t lean too far towards your feet or your palms. Try to keep it balanced. If your wrists hurt, you may need to move towards your palms a bit.",
+                "Full-body activation really comes into play here. Try to imagine each vertebrae of your body moving back at a time. ",
+                "Breathe normally throughout this exercise. This is very important. The new positioning in our body can make our blood rush to and from our head. If we hold our breath and suddenly release it, this may result in severe dizziness. ",
+                "If you feel dizzy, stop immediately and take a break. Walk around the room while breathing normally before returning to your exercise set.",
+                "Try to externally rotate your shoulders during this exercise. This meaning rotating your upper arms away from your body. It may help you to envision trying to bring your elbows together.",
+                "Your feet should point forward or slightly out. Point your toes forward.",
+                "Try to arch your back evenly. Don’t hinge at one point while keeping the rest straight. Imagine your back being as curved as the letter U upside down.",
+                "Your abs will stretch during this exercise. You can maintain tension in them - but they should stretch to allow your lower back to contract. This is normal!"
+            ],
+            "tutorial": [
+                "Sit on a platform around knee height. Your legs should be around shoulder width.",
+                "Lean back until your head and palms touch the floor. Use the platform to support your lower body as you arch back.",
+                "Lean backwards, pushing through your palms and feet until your head and back are clear of the floor. You should be in a Full Bridge position - supported only be your palms and feet!",
+                "Pause for 5 Seconds. Breathing evenly and feeling your muscles stretch.",
+                "Slowly reverse the movement.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/JD7DITX.mp4"
+        },
+        {
+            "name": "Full Bridges",
+            "sets": "2 Sets of 15",
+            "form": [
+                "The difficulty of this exercise is affected by the distance between your hands and feet. Don’t start with them too close. Experiment with the distance.",
+                "Try to straighten your arms.",
+                "Try to straighten your legs.",
+                "Try to retract your scapula and bring your shoulders back.",
+                "Try to keep your bridge “even.” Don’t lean too far towards your feet or your palms. Try to keep it balanced. If your wrists hurt, you may need to move towards your palms a bit.",
+                "Full-body activation really comes into play here. Try to imagine each vertebrae of your body moving back at a time. ",
+                "Try to externally rotate your shoulders during this exercise. This meaning rotating your upper arms away from your body. It may help you to envision trying to bring your elbows together.",
+                "Your feet should point forward or slightly out. Point your toes forward.",
+                "Try to arch your back evenly. Don’t hinge at one point while keeping the rest straight. Imagine your back being as curved as the letter U upside down.",
+                "Breathe normally throughout this exercise. This is very important. The new positioning in our body can make our blood rush to and from our head. If we hold our breath and suddenly release it, this may result in severe dizziness. ",
+                "If you feel dizzy, stop immediately and take a break. Walk around the room while breathing normally before returning to your exercise set."
+            ],
+            "tutorial": [
+                "Lie on your back with your knees bent. Your heels should be a few inches away from your butt.",
+                "Reach back until your palms touch the floor. Your hands should be next to your head with your fingers pointing towards your feet.",
+                "Push through your palms and feet while arching your back until your arms and legs are as straight as you can make them. You should be in a Full Bridge position - supported only be your palms and feet!",
+                "Pause for 5 Seconds. Breathing evenly and feeling your muscles stretch.",
+                "Slowly reverse the movement.",
+                "Pause for 5 Seconds.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/Vm43ooF.mp4"
+        },
+        {
+            "name": "Wheel Bridges",
+            "sets": "2 Sets of 15",
+            "form": [
+                "Video yourself doing these exercises and watch back in between sets.",
+                "Start with your heels a few inches from your butt.",
+                "Try to straighten your arms.",
+                "Try to straighten your legs.",
+                "Try to retract your scapula and bring your shoulders back.",
+                "Try to breathe normally.",
+                "Try to keep your bridge “even.” Don’t lean too far towards your feet or your palms. Try to keep it balanced. If your wrists hurt, you may need to move towards your palms a bit.",
+                "Full-body activation really comes into play here. Try to imagine each vertebrae of your body moving back at a time. ",
+                "Try to arch your back evenly. Don’t hinge at one point while keeping the rest straight. Imagine your back being as curved as the letter U upside down.",
+                "Try to externally rotate your shoulders during this exercise. This meaning rotating your upper arms away from your body. It may help you to envision trying to bring your elbows together.",
+                "Your feet should point forward or slightly out. Point your toes forward.",
+                "Breathe normally throughout this exercise. This is very important. The new positioning in our body can make our blood rush to and from our head. If we hold our breath and suddenly release it, this may result in severe dizziness. ",
+                "If you feel dizzy, stop immediately and take a break. Walk around the room while breathing normally before returning to your exercise set."
+            ],
+            "tutorial": [
+                "Lie on your back with your knees bent. Your heels should be a few inches away from your butt.",
+                "Reach back until your palms touch the floor. Your hands should be next to your head with your fingers pointing towards your feet.",
+                "Push through your palms and feet while arching your back until your arms and legs are as straight as you can make them. You should be in a Full Bridge position - supported only be your palms and feet!",
+                "Pause for 10 Seconds. Use this time to stretch and move your body into place.",
+                "Slowly reverse the movement.",
+                "Pause for 10 Seconds.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/Ugwmo7S.mp4"
+        },
+        {
+            "name": "Tap Bridges",
+            "sets": "2 Sets of 30 Taps (Per Side, Alternating)",
+            "form": [
+                "Video yourself during this exercise and watch back in between sets.",
+                "Try to establish full balance with each “tap.” If you feel like you have to rush to quickly touch your head and the ground again to avoid falling, spend extra time just learning to balance on your arms.",
+                "Breathe normally throughout this exercise. This is very important. The new positioning in our body can make our blood rush to and from our head. If we hold our breath and suddenly release it, this may result in severe dizziness. ",
+                "If you feel dizzy, stop immediately and take a break. Walk around the room while breathing normally before returning to your exercise set."
+            ],
+            "tutorial": [
+                "Lie on your back with your knees bent. Your heels should be a few inches away from your butt.",
+                "Lean back and push yourself into a Wheel Bridge or Full Bridge. ",
+                "Steadily shift weight onto one arm until you are able to lift the other arm entirely.",
+                "Tap your head or opposing shoulder briefly before returning your hand to the ground.",
+                "Repeat this motion for the other side.",
+                "Repeat 3-5."
+            ],
+            "video": "https://i.imgur.com/Ugwmo7S.mp4"
+        },
+        {
+            "name": "Wall Walking Bridges",
+            "sets": "2 Sets of 5",
+            "form": [
+                "Video yourself during this exercise and watch back in between sets.",
+                "Make sure your hands on the wall AND your feet on the ground are very secure. Don’t wear only socks while doing this exercise. If you feel yourself “sliding” while leaning back, either go barefoot or find a wall, floor, and pair of shoes that allow you to be stable.",
+                "Try to establish full balance with each step. Do not rush to quickly go down the wall. This will only lead to injury.",
+                "Stand approximately arm’s length away from the wall. Adjust as necessary. ",
+                "Leaning back and placing the first hand may lead to dizziness even more than the previous exercises. See below for more information on this.",
+                "Breathe normally throughout this exercise. This is very important. The new positioning in our body can make our blood rush to and from our head. If we hold our breath and suddenly release it, this may result in severe dizziness. ",
+                "If you feel dizzy, stop immediately and take a break. Walk around the room while breathing normally before returning to your exercise set."
+            ],
+            "tutorial": [
+                "Stand arm’s length away from a stable wall. Your feet should be shoulder width apart.",
+                "Lean back steadily, start from your hips and “feeling” each vertebrae move at a time, and place one palm on the wall behind you. ",
+                "Do the same with your other palm, placing it slightly below the palm already on the wall.",
+                "Repeat this with each arm, “walking” yourself down the wall until your palms are on the ground in a Wheel Bridge or Full Bridge.",
+                "Take a deep breath to regain your bearings.",
+                "Lift one palm off the ground and place it securely against the wall.",
+                "Repeat the same with your other palm, placing it slightly above the palm already on the wall.",
+                "Repeat this with each arm until you are able to stand back up as you were in step 1.",
+                "Repeat 2-8."
+            ],
+            "video": "https://i.imgur.com/A1DQjzI.mp4"
+        },
+        {
+            "name": "Stand-to-Stand Bridges",
+            "sets": "2 Sets of 5",
+            "form": [
+                "Video yourself during this exercise and watch back in between sets.",
+                "Make sure you are in a secure, safe area. No running kids, pets, or general hectic activity. You want to be able to focus for your own safety and balance.",
+                "This exercise is easier if you bend your knees or spread your feet far apart. Aim to do this exercise with your feet shoulder width apart and toes pointing forward or slightly out.",
+                "Leaning back may lead to dizziness even more than the previous exercises. See below for more information on this.",
+                "Breathe normally throughout this exercise. This is very important. The new positioning in our body can make our blood rush to and from our head. If we hold our breath and suddenly release it, this may result in severe dizziness. ",
+                "If you feel dizzy, stop immediately and take a break. Walk around the room while breathing normally before returning to your exercise set."
+            ],
+            "tutorial": [
+                "Stand upright in a safe and secure location. Your feet should be shoulder width apart. Your hands should be on your hips.",
+                "Lean back steadily by pushing your hips forward and “feeling” each vertebrae move at a time.",
+                "Keep leaning back until you are able to gently place one palm on the ground. You shouldn’t need to fall on the palm.",
+                "After you are set, place your other palm on the ground. You should be in a Wheel Bridge or Full Bridge position.",
+                "Take a deep breath to regain your bearings.",
+                "Slowly reverse the movement by pushing through one palm and lifting the other until you are able to stand back up.",
+                "Place your hands back on your hips while you stand upright. Take a moment to gather your bearings.",
+                "Repeat 2-7."
+            ],
+            "video": "https://i.imgur.com/5LzIwLv.mp4"
         }
     ],
     "Twists": [
         {
-            "name": "Glute Bridges",
-            "link": "https://www.hybridcalisthenics.com/glute-bridges",
-            "sets": "3 x 50",
+            "name": "Straight Leg Twists",
+            "sets": "3 Holds of 60 Seconds (Both Sides)",
             "form": [
-                "ABC",
-                "CDE"
+                "Turn toward your BENT leg. This is helpful to align the movement. For some reason, it’s easy to get confused on this. Many people initially turned toward their straight leg - myself possibly included.",
+                "Mind-muscle connection really matters here. Feel one side of your body stretch as the other side contracts. Small adjustments can help you feel the movement a lot better over the time you practice. This is one of the reasons longer holds are preferred.",
+                "Once you are in position, slightly look down as if you are trying to touch your chin to the shoulder toward which you are turning. This will help engage and stretch the muscles in the back of your neck.",
+                "Go slowly and steadily. Under NO circumstances should you use SPEED to twist into the movement or extend your range of motion. This would be a recipe for disaster. If you use control, you own body will regulate the safety of the movement."
             ],
-            "video": "https://i.imgur.com/gQQFZo6.mp4"
+            "tutorial": [
+                "Sit on the floor with your legs straight in front of you.",
+                "Place your right foot beside your left knee and cross it over so the foot is on the other side of the knee to your left.",
+                "Turn towards your bent leg and place your left hand on your right side.. Place your right hand behind you.",
+                "Continue turning to your right as hard as you safely can. ",
+                "Breathe normally and hold for time. ",
+                "Return to your starting position and do the exact same for the left side.",
+                "After doing both sides, rest 30 seconds before repeating again. See Standards."
+            ],
+            "video": "https://i.imgur.com/YLxTgus.mp4"
+        },
+        {
+            "name": "Bent Leg Twists",
+            "sets": "3 Holds of 60 Seconds (Both Sides)",
+            "form": [
+                "You might feel some muscles near your hip cramp. If this happens, ease off the stretch and massage them a bit. Walk around. Then go back to your Twists.",
+                "It may help you to jog in place a bit before this exercise. This may help loosen up some lower body muscles and improve this exercise’s effectiveness.",
+                "Turn toward your BENT leg. This is helpful to align the movement. For some reason, it’s easy to get confused on this. Many people initially turned toward their straight leg - myself possibly included.",
+                "Mind-muscle connection really matters here. Feel one side of your body stretch as the other side contracts. Small adjustments can help you feel the movement a lot better over the time you practice. This is one of the reasons longer holds are preferred.",
+                "Once you are in position, slightly look down as if you are trying to touch your chin to the shoulder toward which you are turning. This will help engage and stretch the muscles in the back of your neck.",
+                "Go slowly and steadily. Under NO circumstances should you use SPEED to twist into the movement or extend your range of motion. This would be a recipe for disaster. If you use control, you own body will regulate the safety of the movement."
+            ],
+            "tutorial": [
+                "Sit on the floor with your legs straight in front of you.",
+                "Place your right foot beside your left knee and cross it over so the foot is on the other side of the knee to your left.",
+                "Bend your left knee and place your left heel on your right buttcheek.",
+                "Turn towards your bent leg and place your left hand on your right side.. Place your right hand behind you.",
+                "Continue turning to your right as hard as you safely can. ",
+                "Breathe normally and hold for time. ",
+                "Return to your starting position and do the exact same for the left side.",
+                "After doing both sides, rest 30 seconds before repeating again. See Standards."
+            ],
+            "video": "https://i.imgur.com/3TmUNVB.mp4"
+        },
+        {
+            "name": "Full Twists",
+            "sets": "3 Holds of 60 Seconds (Both Sides)",
+            "form": [
+                "Progression is key to this exercise. See the “Progression & Regression” section on this page to find easier variations. It’s normal to have multiple “mini progressions” before you are able to do the Full Twist.",
+                "It may help to bring some gentle full body exercises like jumping jacks before doing this exercise. This will mobilize your musculature and make your stretch more effective.",
+                "Turn toward your BENT leg. This is helpful to align the movement. For some reason, it’s easy to get confused on this. Many people initially turned toward their straight leg - myself possibly included.",
+                "Mind-muscle connection really matters here. Feel one side of your body stretch as the other side contracts. Small adjustments can help you feel the movement a lot better over the time you practice. This is one of the reasons longer holds are preferred.",
+                "Once you are in position, slightly look down as if you are trying to touch your chin to the shoulder toward which you are turning. This will help engage and stretch the muscles in the back of your neck.",
+                "Go slowly and steadily. Under NO circumstances should you use SPEED to twist into the movement or extend your range of motion. This would be a recipe for disaster. If you use control, you own body will regulate the safety of the movement."
+            ],
+            "tutorial": [
+                "Sit on the floor with your legs straight in front of you.",
+                "Place your right foot beside your left knee and cross it over so the foot is on the other side of the knee to your left.",
+                "Bend your left knee and place your left heel on your right buttcheek.",
+                "Turn slowly towards your bent leg.",
+                "Thread your left arm under your right knee from the outside. ",
+                "Turn a bit more towards the right until you are able to grab your left hand with your right hand.",
+                "Hold your hands together while turning as hard as you safely can to the right side.",
+                "Breathe normally and hold for time. ",
+                "Return to your starting position and do the exact same for the left side.",
+                "After doing both sides, rest 30 seconds before repeating again. See Standards."
+            ],
+            "video": "https://i.imgur.com/0ruI3up.mp4"
         }
     ],
     "Leg Raises": [
         {
-            "name": "Glute Bridges",
-            "link": "https://www.hybridcalisthenics.com/glute-bridges",
-            "sets": "3 x 50",
+            "name": "Knee Raises",
+            "sets": " 2 Sets of 30",
             "form": [
-                "ABC",
-                "CDE"
+                "Keep your heels off the ground throughout the exercise, Touching the ground at the bottom of the movement makes this exercise easier. Do this if necessary at first, but strive to break this habit eventually.",
+                "The more you extend your knees, the harder this exercise. For Knee Raises, try to maintain a 90 degree bend.",
+                "Try to keep your lower back on the ground throughout the exercise. Depending on your body shape, this may be difficult or impossible. However, maintain the intent to touch your lower back.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "If your lower back hurts, using a small pillow or small rolled up towel underneath your lower back is a temporary solution.",
+                "Keeping your thighs pressed together may help you focus on the movement."
             ],
-            "video": "https://i.imgur.com/gQQFZo6.mp4"
+            "tutorial": [
+                "Lie flat on the floor with your arms by your side.",
+                "Bend your knees until they are approximately 90 degrees.",
+                "Bring your legs up until your knees are over your waist. Control the movement.",
+                "Pause for 1 Second, feeling the contraction in your hips and abs.",
+                "Slowly descend while straightening your legs until your heels are about 1 inch off the ground.",
+                "Pause for 1 Second.",
+                "Repeat  3-6."
+            ],
+            "video": "https://i.imgur.com/mz229DN.mp4"
+        },
+        {
+            "name": "Advanced Knee Raises",
+            "sets": "2 Sets of 30",
+            "form": [
+                "Keep your heels off the ground throughout the exercise, Touching the ground at the bottom of the movement makes this exercise easier. Do this if necessary at first, but strive to break this habit eventually.",
+                "Try to maintain a 45 degree bend.",
+                "Try to touch your lower back to the ground as your legs go up. This strengthens our waist flexion. Depending on your body shape, this may be difficult or impossible. However, maintain the intent to touch your lower back.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "If your lower back hurts, using a small pillow or small rolled up towel underneath your lower back is a temporary solution.",
+                "Keeping your thighs pressed together may help you focus on the movement."
+            ],
+            "tutorial": [
+                "Lie flat on the floor with your arms by your side.",
+                "Bend your knees until they are approximately 45 degrees.",
+                "Bring your legs up until your knees are over your waist. Control the movement.",
+                "Pause for 1 Second, feeling the contraction in your hips and abs.",
+                "Slowly descend, maintaining the 45 degree bend until your heels at 1 inch off the ground.",
+                "Pause for 1 Second.",
+                "Repeat  3-6."
+            ],
+            "video": "https://i.imgur.com/EpZutj3.mp4"
+        },
+        {
+            "name": "Alternating Leg Raises",
+            "sets": "2 Sets of 25",
+            "form": [
+                "Keep your heels off the ground throughout the exercise, Touching the ground at the bottom of the movement makes this exercise easier. Do this if necessary at first, but strive to break this habit eventually.",
+                "At the top of the movement, straighten your legs, push them up, and try to touch your lower back. This increases waist activation.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "If your lower back hurts, using a small pillow or small rolled up towel underneath your lower back is a temporary solution.",
+                "Keeping your thighs pressed together may help you focus on the movement."
+            ],
+            "tutorial": [
+                "Lie flat on the floor with your arms by your side.",
+                "Bend your knees until they are approximately 45 degrees.",
+                "Bring your legs up until your knees are over your waist. Control the movement.",
+                "Straighten at the knees.",
+                "Pause for 1 Second, feeling the contraction in your hips and abs.",
+                "Slowly descend, maintaining straight legs until your heels are 1 inch off the ground.",
+                "Pause for 1 Second.",
+                "Repeat  3-6."
+            ],
+            "video": "https://i.imgur.com/n80Ruou.mp4"
+        },
+        {
+            "name": "Full Leg Raises",
+            "sets": "2 Sets of 25",
+            "form": [
+                "Keep your heels off the ground throughout the exercise, Touching the ground at the bottom of the movement makes this exercise easier. Do this if necessary at first, but strive to break this habit eventually.",
+                "Like the previous step, you may have trouble straightening your legs at first. Work on this over time.",
+                "Pointing your toes will make this exercise look slightly nicer and decrease hamstring flexibility requirements. However, aim to be able to do this regardless of your ankle position.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "If your lower back hurts, using a small pillow or small rolled up towel underneath your lower back is a temporary solution.",
+                "Keeping your thighs pressed together may help you focus on the movement."
+            ],
+            "tutorial": [
+                "Lie flat on the floor with your arms by your side.",
+                "Maintaining straight legs, bring your legs up until your knees are over your waist. Control the movement.",
+                "Pause for 1 Second, feeling the contraction in your hips and abs.",
+                "Slowly descend, maintaining straight legs until your heels are 1 inch off the ground.",
+                "Pause for 1 Second.",
+                "Repeat  3-5."
+            ],
+            "video": "https://i.imgur.com/J5Vq28L.mp4"
+        },
+        {
+            "name": "Tuck Plow Raises",
+            "sets": "2 Sets of 20",
+            "form": [
+                "You may have trouble getting your waist to flex this far. Think of this as a “strength stretch.” Spend a few seconds at the top trying to press your thighs firmly against your chest. Combine this with some lower back stretches will give you the necessary mobility over time. Progressive Jefferson Curls or Elephant Walks work well.",
+                "If this exercise causes cramping, take a few moments to relax and stretch before revisiting it.",
+                "Because we are bending our knees again, the bottom part of this movement will be significantly easier than the previous step. Follow this exercise with a set of Full Leg Raises.",
+                "Don’t let your heels touch at the bottom of the movement. Keep them an inch off the ground.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "If your lower back hurts, using a small pillow or small rolled up towel underneath your lower back is a temporary solution.",
+                "Keeping your thighs pressed together may help you focus on the movement."
+            ],
+            "tutorial": [
+                "Lie flat on the floor with your arms by your side.",
+                "Smoothly bend your knees while bringing your legs up until your thighs are firmly pressed against your chest. Your lower back should be slightly off the ground.",
+                "Pause for 2-3 Seconds, trying to press your thighs as firmly as safely possible against your chest.",
+                "Slowly descend, gradually straightening your legs until your heels are 1 inch above the ground.",
+                "Pause for 1 Second.",
+                "Repeat 2-5."
+            ],
+            "video": "https://i.imgur.com/1Pc50D7.mp4"
+        },
+        {
+            "name": "Plow Raises",
+            "sets": "2 Sets of 20",
+            "form": [
+                "You may have trouble getting your waist to flex this far. Think of this as a “strength stretch.” Spend a few seconds at the top trying to press your thighs firmly against your chest. Come this with some lower back stretches will give you the necessary mobility over time. Progressive Jefferson Curls or Elephant Walks work well.",
+                "It may be difficult to keep straight legs throughout the exercise. Follow this exercise with some hamstring stretches and you will eventually be able to do this!",
+                "If this exercise causes cramping, take a few moments to relax and stretch before revisiting it.",
+                "Don’t let your heels touch at the bottom of the movement. Keep them an inch off the ground.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "If your lower back hurts, using a small pillow or small rolled up towel underneath your lower back is a temporary solution.",
+                "Keeping your thighs pressed together may help you focus on the movement."
+            ],
+            "tutorial": [
+                "Lie flat on the floor with your arms by your side.",
+                "Maintaining straight legs, smoothly bring your legs up until your toes touch the floor behind you. Your lower back should be slightly off the ground.",
+                "Pause for 2-3 Seconds, trying to press your thighs as firmly as safely possible against your chest.",
+                "Slowly descend, gradually straightening your legs until your heels are 1 inch above the ground.",
+                "Pause for 1 Second.",
+                "Repeat 2-5."
+            ],
+            "video": "https://i.imgur.com/aKG8ujd.mp4"
+        },
+        {
+            "name": "Hanging Knee Raises",
+            "sets": "2 Sets of 15",
+            "form": [
+                "Maintain a firm grip throughout the exercise. If you do not have the grip strength necessary for this, work just hanging from a bar until you do. ",
+                "The straighter your legs, the harder this exercise is. Aim to bend your knees at 90 degrees at the top of this exercise.",
+                "You may need to bend your arms and keep your shoulders “down” to avoid pain at first. Work towards gradually straightening your arms and relaxing your shoulders for maximal core work.",
+                "Try to keep your pelvis tilted back at the bottom of the exercise. This will keep your working muscles braced throughout. While not necessary, this helps some people avoid lower back pain.",
+                "It may be tempting to forcefully bring up your knees. While there is a place for this, aim to do this exercise slowly under full control first. Then explore explosive movement as you’d like.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keeping your thighs pressed together may help you focus on the movement."
+            ],
+            "tutorial": [
+                "Grab an overhead bar or rings with a shoulder width grip.",
+                "Engage your core by tilting your pelvis back.",
+                "Smoothly bring your legs up, simultaneously bending your knees until your thighs are parallel to the ground.",
+                "Pause for 1 Second.",
+                "Slowly reverse the movement, straightening your legs and keeping your pelvis rotated back.",
+                "Pause for 1 Second.",
+                "Repeat 3-5."
+            ],
+            "video": "https://i.imgur.com/JlkF1Gy.mp4"
+        },
+        {
+            "name": "Advanced Hanging Knee Raises",
+            "sets": "2 Sets of 15",
+            "form": [
+                "The straighter your legs, the more difficult this exercise. Aim to maintain a 45 degree bend throughout the exercise.",
+                "Maintain a firm grip throughout the exercise. If you do not have the grip strength necessary for this, work just hanging from a bar until you do. ",
+                "You may need to bend your arms and keep your shoulders “down” to avoid pain at first. Work towards gradually straightening your arms and relaxing your shoulders for maximal core work.",
+                "Try to keep your pelvis tilted back at the bottom of the exercise. This will keep your working muscles braced throughout. While not necessary, this helps some people avoid lower back pain.",
+                "It may be tempting to forcefully bring up your legs. While there is a place for this, aim to do this exercise slowly under full control first. Then explore explosive movement as you’d like.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keeping your thighs pressed together may help you focus on the movement."
+            ],
+            "tutorial": [
+                "Grab an overhead bar or rings with a shoulder width grip.",
+                "Engage your core by tilting your pelvis back.",
+                "Bend your knees into a 45 degree angle.",
+                "Smoothly bring your legs up, maintaining your knee bend until your thighs are parallel to the ground.",
+                "Pause for 1 Second.",
+                "Slowly reverse the movement, maintaining knee bend and keeping your pelvis rotated back.",
+                "Pause for 1 Second.",
+                "Repeat 4-7."
+            ],
+            "video": "https://i.imgur.com/LODETvl.mp4"
+        },
+        {
+            "name": "Hanging Leg Raises",
+            "sets": "2 Sets of 25",
+            "form": [
+                "Keep your legs straight throughout the exercise.",
+                "Maintain a firm grip throughout the exercise. If you do not have the grip strength necessary for this, work just hanging from a bar until you do. ",
+                "You may need to bend your arms and keep your shoulders “down” to avoid pain at first. Work towards gradually straightening your arms and relaxing your shoulders for maximal core work.",
+                "Try to keep your pelvis tilted back at the bottom of the exercise. This will keep your working muscles braced throughout. While not necessary, this helps some people avoid lower back pain.",
+                "It may be tempting to forcefully bring up your legs. While there is a place for this, aim to do this exercise slowly under full control first. Then explore explosive movement as you’d like.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keeping your thighs pressed together may help you focus on the movement."
+            ],
+            "tutorial": [
+                "Grab an overhead bar or rings with a shoulder width grip.",
+                "Engage your core by tilting your pelvis back.",
+                "Smoothly bring your legs up, keeping them perfectly straight until they are parallel to the ground.",
+                "Pause for 1 Second.",
+                "Slowly reverse the movement, keeping your pelvis rotated back.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/AEtzUt4.mp4"
+        },
+        {
+            "name": "Toe to Bars",
+            "sets": "2 Sets of 25",
+            "form": [
+                "Keep your legs straight throughout the exercise.",
+                "Avoid leaning back in this exercise as much as possible. Though it may be necessary to some extent, leaning back too far will bring in your lats and decrease core work.",
+                "Do not do this exercise if your grip is failing. Falling on your lower back can paralyze you or worse.",
+                "Try to keep your pelvis tilted back at the bottom of the exercise. This will keep your working muscles braced throughout. While not necessary, this helps some people avoid lower back pain.",
+                "It may be tempting to forcefully bring up your legs. While there is a place for this, aim to do this exercise slowly under full control first. Then explore explosive movement as you’d like.",
+                "Film yourself and watch back between sets to check your form. A mirror is also useful.",
+                "Keeping your thighs pressed together may help you focus on the movement."
+            ],
+            "tutorial": [
+                "Grab an overhead bar or rings with a shoulder width grip.",
+                "Engage your core by tilting your pelvis back.",
+                "Smoothly bring your legs up, keeping them perfectly straight until they touch the bar or your thighs are compressed against your chest.",
+                "Pause for 2-3 Seconds, firmly pressing your thighs against your chest.",
+                "Slowly reverse the movement, keeping your pelvis rotated back.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/QajLD6P.mp4"
         }
     ],
     "Pullups": [
         {
-            "name": "Glute Bridges",
-            "link": "https://www.hybridcalisthenics.com/glute-bridges",
-            "sets": "3 x 50",
+            "name": "Wall Pullups",
+            "sets": "3 Sets of 50",
             "form": [
-                "ABC",
-                "CDE"
+                "Slow and steady wins the race on this exercise. Don’t just speed through these. Find a controlled, rhythmic pace to really feel this movement. 2 Seconds Down, 1 Second Pause, 2 Seconds Up. Repeat.",
+                "Keep your hands around sternum height. Your fist should touch your chest at the top of the movement.",
+                "Regardless of where you do this exercise, make sure you have a good grip on the object. A slippery surface will make holding on difficult, which is not the goal of this exercise.",
+                "Keep your body firm. Don’t arch your body at the bottom to make the motion easier. Core strength is important for all calisthenics, and this is a great place to start building it."
             ],
-            "video": "https://i.imgur.com/gQQFZo6.mp4"
+            "tutorial": [
+                "Stand at arm’s length facing a pole, tree, or wall section.",
+                "Firmly grasp the object with both arms. Your arms should be straight.",
+                "Ascend slowly until the object or your hands gently touch your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/EXSOWBj.mp4"
+        },
+        {
+            "name": "Horizontal Pullups",
+            "sets": "3 Sets of 30",
+            "form": [
+                "The higher the base you grasp - the easier this exercise.  For this step, find something around sternum height.",
+                "Try to maintain a consistent height so you can better judge your progress. Small adjustments over time are fine!",
+                "This is where having a set of Gymnastic Rings really shines. They’ll allow you to pull higher. If using a bar, pull until your chest touches the bar. If using rings, pull until your fists are by your chest.",
+                "Keep your body firm. Don’t arch your body at the bottom to make the motion easier. Core strength is important for all calisthenics, and this is a great place to start building it."
+            ],
+            "tutorial": [
+                "Get below a horizontal base that is sternum height when you’re standing.",
+                "Firmly grasp the base with both arms at shoulder width. Your arms should be straight.",
+                "Ascend slowly until the base or your hands gently touch your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/8BTDOna.mp4"
+        },
+        {
+            "name": "Advanced Horizontal Pullups",
+            "sets": "3 Sets of 25",
+            "form": [
+                "Start filming yourself around this step. Watch back between sets to monitor your form!",
+                "The higher the base you grasp - the easier this exercise.  For this step, find something around hip height.",
+                "Try to maintain a consistent height so you can better judge your progress. Small adjustments over time are fine!",
+                "This is where having a set of Gymnastic Rings really shines. They’ll allow you to pull higher. If using a bar, pull until your chest touches the bar. If using rings, pull until your fists are by your chest.",
+                "Keep your body firm. Don’t arch your body at the bottom to make the motion easier. Core strength is important for all calisthenics, and this is a great place to start building it."
+            ],
+            "tutorial": [
+                "Get below a horizontal base that is hip height when you’re standing.",
+                "Firmly grasp the base with both arms at shoulder width. Your arms should be straight.",
+                "Ascend slowly until the base or your hands gently touch your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second."
+            ],
+            "video": "https://i.imgur.com/lfI0ofO.mp4"
+        },
+        {
+            "name": "Jackknife Pullups",
+            "sets": "3 Sets of 20",
+            "form": [
+                "Positioning is key for Jackknife Pullups. Your torso should be slightly behind the bar. You should be able to pull your chin above the rings or bar. If you feel like your legs are “too short” to assist at the top, move your body back a bit.",
+                "Similarly, find an ideal height for the base or rings. Your butt should be an inch or so off the ground while maintaining straight arms at the bottom.",
+                "At first, your torso will start off vertical and lean back as you go up. Over time, try to maintain a somewhat vertical torso as you ascend.",
+                "This is where having a set of Gymnastic Rings really shines. They’ll allow you to pull higher. If using a bar, pull until your chest touches the bar. If using rings, pull until your fists are by your chest.",
+                "While you will need to hinge at the hips for this exercise, maintain tension in your core and legs. Avoid sagging!",
+                "Video yourself and watch back between sets to monitor your form!"
+            ],
+            "tutorial": [
+                "Sit below a horizontal base with your legs straight in front of you.",
+                "Firmly grasp the base with both arms at shoulder width. Your arms should be straight and your butt off the ground.",
+                "Ascend slowly until the base or your hands gently touch your chest. Assist with your legs as necessary.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/uP0X2e5.mp4"
+        },
+        {
+            "name": "Full Pullups",
+            "sets": "3 Sets of 12",
+            "form": [
+                "“Perfect form” for Full Pullups is often debated. You’ll get different answers depending on who you ask. As long as you build up to your technique progressively (without sudden increases in resistance), you should be safe. Aim be able to do all of them!",
+                "It’s common to refer an overhand grip as Pullups and an underhand grip as Chinups. Overhand will have more emphasis on the back and underhand will have more emphasis on the biceps. They are comparable in difficulty. Aim to master both, as well as a neutral grip (thumbs facing back)!",
+                "Having Gymnastic Rings here will allow your hands to rotate freely as you do this exercise.",
+                "Video yourself and watch back between sets to monitor your form!"
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with both arms at shoulder width. Your entire body should be straight and off the ground.",
+                "Ascend slowly until your chest gently touches the bar (or just below).",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/2bVJBWx.mp4"
+        },
+        {
+            "name": "Narrow Pullups",
+            "sets": "3 Sets of 9",
+            "form": [
+                "It is usually more comfortable to do this exercise with an underhand or neutral grip.",
+                "“Perfect form” for Pullups is often debated. You’ll get different answers depending on who you ask. As long as you build up to your technique progressively (without sudden increases in resistance), you should be safe. Aim be able to do all of them!",
+                "If you are using Gymnastic Rings, you may be able to do this on one ring. Make sure the single ring can support your weight!",
+                "Video yourself and watch back between sets to monitor your form!"
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with both hands. Your hands should be together. Your entire body should be straight and off the ground.",
+                "Ascend slowly until your chest gently touches your hands.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/2bVJBWx.mp4"
+        },
+        {
+            "name": "One Hand Pullups",
+            "sets": "2 Sets of 9 (Both Sides)",
+            "form": [
+                "The lower your supporting hand, the harder the exercise. Start with a grip on your wrist.",
+                "If your supporting hand leaves bruises on your wrist, you may be supporting too much. Over time, allow a firm grip that doesn’t leave bruises. Your working arm will get stronger as a result.",
+                "As with Narrow Pullups, this exercise is usually done with an underhand grip.",
+                "If you are using Gymnastic Rings, you may be able to do this on one ring. Make sure the single ring can support your weight!",
+                "Video yourself and watch back between sets to monitor your form!",
+                "Allow your shoulder blades to move naturally. Retract them at the top and protract them at the bottom."
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with one hand. Use your other hand and placing it on your the wrist of your working arm. ",
+                "Ascend slowly until your chest gently touches your hand.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/1e9FBvf.mp4"
+        },
+        {
+            "name": "Advanced One Hand Pullups",
+            "sets": "2 Sets of 9 (Both Sides)",
+            "form": [
+                "The less you assist with your supporting arm, the harder this exercise. Start by gripping firmly and start softening your grip as you approach Level 3 of this exercise. You’ll know you’re almost ready to move on when you feel like you can do this exercise assisting with only a flat palm!",
+                "If your supporting hand leaves bruises on your forearm, you may be supporting too much. Over time, allow a firm grip that doesn’t leave bruises. Your working arm will get stronger as a result.",
+                "As with Narrow Pullups, this exercise is usually done with an underhand grip.",
+                "If you are using Gymnastic Rings, you may be able to do this on one ring. Make sure the single ring can support your weight!",
+                "Video yourself and watch back between sets to monitor your form!"
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with one hand. Use your other hand and placing it on your the forearm of your working arm. ",
+                "Ascend slowly until your chest gently touches your hand.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/5hwNfze.mp4"
+        },
+        {
+            "name": "Archer Pullups",
+            "sets": "2 Sets of 9 (Both Sides)",
+            "form": [
+                "The straighter your assisting arm, the more difficult this exercise. You may find it difficult to have a completely straight arm at first. Use a slightly bent arm at first if necessary. Straighten over time.",
+                "Grip position is up to the preferences of the user. If you build the previous exercises with an underhand grip, it’s a good idea to use a mixed grip - underhand with your working arm and overhand with your assisting arm. ",
+                "The width between your hands is slightly dependent on the proportions and mobility of the user. Twice shoulder width is a good starting point for many people.",
+                "If you are doing this exercise on Gymnastic Rings, experiment with the width between the rings. If they’re too wide, the straps may slide. Slightly less than shoulder width seems to work. ",
+                "Video yourself and watch back between sets to monitor your form!"
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with both hands. Your hands should be around twice shoulder width. Your arms should be relatively straight.",
+                "Ascend slowly until your chest gently touches your hand.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/WGzoHXj.mp4"
+        },
+        {
+            "name": "One Arm Pullups",
+            "sets": "2 Sets of 6",
+            "form": [
+                "Whatever progressions you use to build up to this step, strive to be able to do it with clean form and without joint pain. Train for strength, health, and ability - not ego!",
+                "Grip position is up to the preferences of the user. Some might find an underhand grip easier, but it appears to be dependent on the individual. Strive to master all grip types.",
+                "If you are using Gymnastic Rings, you may be able to do this on one ring. Make sure the single ring can support your weight!",
+                "Video yourself and watch back between sets to monitor your form!",
+                "Allow your shoulder blades to move naturally. Retract them at the top and protract them at the bottom."
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with one hand. Your working arm should be straight. ",
+                "Ascend slowly until your chin is above the bar or rings. Allow your free arm to move freely for balance.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/JpfHEWV.mp4"
         }
     ],
     "Squats": [
         {
-            "name": "Glute Bridges",
-            "link": "https://www.hybridcalisthenics.com/glute-bridges",
-            "sets": "3 x 50",
+            "name": "Jackknife Squats",
+            "sets": "3 Sets of 35",
             "form": [
-                "ABC",
-                "CDE"
+                "Your legs should be approximately shoulder width apart.",
+                "Your feet should point forward or slightly out. Don’t point them excessively out.",
+                "Slow and steady wins the race on this exercise. Don’t just speed through these. Find a controlled, rhythmic pace to really feel this movement. 2 Seconds Down, 1 Second Pause, 2 Seconds Up. Repeat.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. The lower back may round at the very bottom of the movement, which is usually fine.",
+                "Find a base from which you can firmly push. If you use a chair or low table, make sure it will not collapse on you and hurt you.",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips - like a jackknife opening! This is the namesake of the exercise and will involve solid upper and lower body engagement. ",
+                "Film yourself and watch back between sets!",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
             ],
-            "video": "https://i.imgur.com/gQQFZo6.mp4"
+            "tutorial": [
+                "Stand in front of a stable platform around knee height.",
+                "Maintaining straight legs, bend at the hips until your palms are on the platform. Your arms should be relatively straight, as should your waist.",
+                "Squat down slowly, with a slightly forward lean so you may assist with your arms, until your hamstrings are are pressed against your calves. You should not be able to squat any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/e544dTH.mp4"
+        },
+        {
+            "name": "Assisted Squats",
+            "sets": "3 Sets of 30",
+            "form": [
+                "This is a good place to start using Gymnastic Rings, if you happen to have them. You can adjust them to your ideal height. Alternatively, you can use a rope or sturdy railing.",
+                "Your legs should be approximately shoulder width apart.",
+                "Your feet should point forward or slightly out. Don’t point them excessively out.",
+                "Slow and steady wins the race on this exercise. Don’t just speed through these. Find a controlled, rhythmic pace to really feel this movement. 2 Seconds Down, 1 Second Pause, 2 Seconds Up. Repeat.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. The lower back may round at the very bottom of the movement, which is usually fine.",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in front of a stable platform around hip height.",
+                "Maintaining straight legs, bend at the hips until your palms are on the platform. Your arms should be relatively straight, as should your waist.",
+                "Squat down slowly, with a slightly forward lean so you may assist with your arms, until your hamstrings are are pressed against your calves. You should not be able to squat any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/GNREVFX.mp4"
+        },
+        {
+            "name": "Half Squats",
+            "sets": "2 Sets of 50",
+            "form": [
+                "Because this is the first Squat variation where we do not train a full range of motion, always follow this exercise with a few sets of Assisted Squats or Jackknife Squats to maintain strength in this range!",
+                "Some people bend heavily at the hips to make this exercise easier. Don’t make this mistake! Allow a slight forward lean, but squat with your entire lower body.",
+                "Your legs should be approximately shoulder width apart.",
+                "Your feet should point forward or slightly out. Don’t point them excessively out.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time.",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with your feet shoulder width apart.",
+                "Place your arms wherever they feel comfortable. Some extend their arms straight in front of them, and others place them across their chest.",
+                "Squat down slowly until your thighs are parallel with the ground.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/KjUMRFA.mp4"
+        },
+        {
+            "name": "Full Squats",
+            "sets": "2 Sets of 30",
+            "form": [
+                "You may be tempted to “bounce” out of the difficult bottom range. While you might be able to do more reps this way, this will only make you weaker. Aim to control every inch of the movement.",
+                "Some people bend heavily at the hips to make this exercise easier. Don’t make this mistake! Allow a slight forward lean, but squat with your entire lower body.",
+                "Your legs should be approximately shoulder width apart.",
+                "Your feet should point forward or slightly out. Don’t point them excessively out.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with your feet shoulder width apart.",
+                "Place your arms wherever they feel comfortable. Some extend their arms straight in front of them, and others place them across their chest.",
+                "Squat down slowly until your hamstrings are pressed against your calves and you are unable to descend any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/19qy7fY.mp4"
+        },
+        {
+            "name": "Narrow Squats",
+            "sets": "2 Sets of 30",
+            "form": [
+                "This exercise is done with the heels touching. The feet can be pointed forward or slightly out.",
+                "If you lose balance during this exercise, do this near a wall so you can use it balance when needed. Over time, learn this squat without the wall.",
+                "Some people bend heavily at the hips to make this exercise easier. Don’t make this mistake! Allow a slight forward lean, but squat with your entire lower body.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with your legs straight and heels touching.",
+                "Place your arms wherever they feel comfortable. Some extend their arms straight in front of them, and others place them across their chest.",
+                "Squat down slowly until your hamstrings are pressed against your calves and you are unable to descend any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/6AUQnW1.mp4"
+        },
+        {
+            "name": "Side Staggered Squats",
+            "sets": "2 Sets of 20 (Both Sides)",
+            "form": [
+                "Work one side at a time during a set. This trains your working muscles to operate under constant tension. ",
+                "The wider your foot positioning, the harder this exercise will be. Start with approximately twice shoulder width if you can!",
+                "Move your arms however you wish to balance this exercise. It does not matter much.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with your legs straight and feet twice shoulder width apart. ",
+                "Place your arms wherever they feel comfortable. Some extend their arms straight in front of them, and others place them across their chest.",
+                "Squat down slowly towards one side until your hamstrings are pressed against your calves and you are unable to descend any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/AVZ3tss.mp4"
+        },
+        {
+            "name": "Front Staggered Squats",
+            "sets": "2 Sets of 15 (Both Sides)",
+            "form": [
+                "The further your assisting foot, the harder the exercise. Work up to having your assisting foot 2 feet away from your working foot.",
+                "Similarly, having your feet shoulder width apart will help your balance. Over time, move your assisting foot directly in front of your working one. This will better simulate the balance necessary for One-Leg Squats",
+                "Work one side at a time during a set. This train your working muscles to operate under constant tension. ",
+                "Move your arms however you wish to balance this exercise. It does not matter much.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with one foot in front of the other. Your legs should be relatively straight.",
+                "Squat down slowly on your back leg until your hamstrings are pressed against your calves and you are unable to descend any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/yzhzdmh.mp4"
+        },
+        {
+            "name": "Assisted One Leg Squats",
+            "sets": "2 Sets of 12 (Both Sides)",
+            "form": [
+                "The standard for this exercise is assisting yourself with something around waist height. This can be Gymnastic Rings or a stable railing or table. Assist yourself with whatever you can to get started!",
+                "One-Leg Squats look better with your assisting leg straight and parallel with the ground at the bottom of the movement. While this is a good workout for your hip flexors, it’s not necessary to get started. Try to keep it off to the ground, and work on getting your leg straighter and more mobile over time.",
+                "Work one side at a time during a set. This train your working muscles to operate under constant tension. ",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area in front of Gymnastic Rings or a stable assisting platform. ",
+                "Grab the assisting platform with your hands and raise one leg off the ground. Both legs should be straight.",
+                "Squat down slowly on your back leg until your hamstrings are pressed against your calves and you are unable to descend any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/C7zcoUu.mp4"
+        },
+        {
+            "name": "One Leg Chair Squats",
+            "sets": "2 Sets of 12 (Both Sides)",
+            "form": [
+                "The standard for this exercise is squatting from a chair around knee height. If this is too difficult and you find yourself falling the last few inches, then experiment with a higher chair. As you get stronger, lower the chair!",
+                "You’ll know you’re making progress with this exercise when you can gently touch the chair with your butt, instead of sitting all the way down!",
+                "One-Leg Squats look better with your assisting leg straight and parallel with the ground at the bottom of the movement. While this is a good workout for your hip flexors, it’s not necessary to get started. Try to keep it off to the ground, and work on getting your leg straighter and more mobile over time.",
+                "Work one side at a time during a set. This train your working muscles to operate under constant tension. ",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with a safe, stable chair behind you. The chair should be around knee height.",
+                "Raise one leg off the ground. Both legs should be straight. Use your arms to balance however you choose.",
+                "Squat down slowly on one leg until your butt gently touches the chair. ",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/EUV3paL.mp4"
+        },
+        {
+            "name": "One Leg Squats",
+            "sets": "2 Sets of 12 (Both Sides)",
+            "form": [
+                "This exercise is particularly difficult in the bottom range. As a result, you may be tempted to “bounce” out of the bottom. To build strength in this weak point, resist this urge and maintain a brief pause at the bottom.",
+                "As you do more reps, it may be hard to maintain your balance sometimes. Do these by a wall and lightly touch it to maintain your balance when necessary.",
+                "Try to resist your knees “collapsing inward.” Our knees are hinge joints are don’t resist sideways pressure well. A good rule of thumb is to have your knee go over your second toe (next to your big toe).",
+                "One-Leg Squats look better with your assisting leg straight and parallel with the ground at the bottom of the movement. While this is a good workout for your hip flexors, it’s not necessary to get started. Try to keep it off to the ground, and work on getting your leg straighter and more mobile over time.",
+                "Work one side at a time during a set. This train your working muscles to operate under constant tension. ",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area.",
+                "Raise one leg off the ground. Both legs should be straight. Use your arms to balance however you choose.",
+                "Squat down slowly on one leg until your hamstrings are pressed firmly against your calves.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/hgFF2JG.mp4"
         }
     ]
 }
