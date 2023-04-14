@@ -56,12 +56,12 @@ const currentWorkoutLink = (workout) => {
             <div class="flex">
                 <Sidebar v-model:visible="instructionsVisible">
                     <h2>Instructions</h2>
-                    <ListDetails :items="[]" />
+                    <ListDetails :items="currentWorkout(workout).tutorial" />
                 </Sidebar>
 
                 <Sidebar v-model:visible="formVisible">
                     <h2>Form Cues</h2>
-                    <ListDetails :items="[]" />
+                    <ListDetails :items="currentWorkout(workout).form" />
                 </Sidebar>
 
                 <Button icon="pi pi-info-circle" label="Instructions" @click="instructionsVisible = true" />
@@ -93,5 +93,8 @@ const currentWorkoutLink = (workout) => {
 .flex {
     display: flex;
     justify-content: space-evenly;
+}
+.flex > button {
+width: 45%;
 }
 </style>
