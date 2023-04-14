@@ -1,11 +1,13 @@
 <script setup>
 import { useStorage } from '@vueuse/core'
-import { inject, onMounted, ref } from 'vue';
+import { inject, ref } from 'vue';
 import Button from 'primevue/button'
 import Card from 'primevue/card';
 import Sidebar from 'primevue/sidebar';
 import ExerciseVideo from './ExerciseVideo.vue'
 import ListDetails from './ListDetails.vue';
+
+defineProps(['workout'])
 
 const exercises = inject('workout-exercises')
 
@@ -20,10 +22,6 @@ const levels = useStorage('levels', {
 
 const instructionsVisible = ref(false)
 const formVisible = ref(false)
-
-
-defineProps(['workout'])
-
 
 const completeLevel = (workout) => {
     if (levels.value[workout] >= exercises[workout].length) {
@@ -94,7 +92,8 @@ const currentWorkoutLink = (workout) => {
     display: flex;
     justify-content: space-evenly;
 }
-.flex > button {
-width: 45%;
+
+.flex>button {
+    width: 45%;
 }
 </style>
