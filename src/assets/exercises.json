@@ -805,65 +805,189 @@
         {
             "name": "Horizontal Pullups",
             "sets": "3 Sets of 30",
-            "form": [],
-            "tutorial": [],
-            "video": ""
+            "form": [
+                "The higher the base you grasp - the easier this exercise.  For this step, find something around sternum height.",
+                "Try to maintain a consistent height so you can better judge your progress. Small adjustments over time are fine!",
+                "This is where having a set of Gymnastic Rings really shines. They’ll allow you to pull higher. If using a bar, pull until your chest touches the bar. If using rings, pull until your fists are by your chest.",
+                "Keep your body firm. Don’t arch your body at the bottom to make the motion easier. Core strength is important for all calisthenics, and this is a great place to start building it."
+            ],
+            "tutorial": [
+                "Get below a horizontal base that is sternum height when you’re standing.",
+                "Firmly grasp the base with both arms at shoulder width. Your arms should be straight.",
+                "Ascend slowly until the base or your hands gently touch your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/8BTDOna.mp4"
         },
         {
             "name": "Advanced Horizontal Pullups",
             "sets": "3 Sets of 25",
-            "form": [],
-            "tutorial": [],
-            "video": ""
+            "form": [
+                "Start filming yourself around this step. Watch back between sets to monitor your form!",
+                "The higher the base you grasp - the easier this exercise.  For this step, find something around hip height.",
+                "Try to maintain a consistent height so you can better judge your progress. Small adjustments over time are fine!",
+                "This is where having a set of Gymnastic Rings really shines. They’ll allow you to pull higher. If using a bar, pull until your chest touches the bar. If using rings, pull until your fists are by your chest.",
+                "Keep your body firm. Don’t arch your body at the bottom to make the motion easier. Core strength is important for all calisthenics, and this is a great place to start building it."
+            ],
+            "tutorial": [
+                "Get below a horizontal base that is hip height when you’re standing.",
+                "Firmly grasp the base with both arms at shoulder width. Your arms should be straight.",
+                "Ascend slowly until the base or your hands gently touch your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second."
+            ],
+            "video": "https://i.imgur.com/lfI0ofO.mp4"
         },
         {
             "name": "Jackknife Pullups",
             "sets": "3 Sets of 20",
-            "form": [],
-            "tutorial": [],
-            "video": ""
+            "form": [
+                "Positioning is key for Jackknife Pullups. Your torso should be slightly behind the bar. You should be able to pull your chin above the rings or bar. If you feel like your legs are “too short” to assist at the top, move your body back a bit.",
+                "Similarly, find an ideal height for the base or rings. Your butt should be an inch or so off the ground while maintaining straight arms at the bottom.",
+                "At first, your torso will start off vertical and lean back as you go up. Over time, try to maintain a somewhat vertical torso as you ascend.",
+                "This is where having a set of Gymnastic Rings really shines. They’ll allow you to pull higher. If using a bar, pull until your chest touches the bar. If using rings, pull until your fists are by your chest.",
+                "While you will need to hinge at the hips for this exercise, maintain tension in your core and legs. Avoid sagging!",
+                "Video yourself and watch back between sets to monitor your form!"
+            ],
+            "tutorial": [
+                "Sit below a horizontal base with your legs straight in front of you.",
+                "Firmly grasp the base with both arms at shoulder width. Your arms should be straight and your butt off the ground.",
+                "Ascend slowly until the base or your hands gently touch your chest. Assist with your legs as necessary.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/uP0X2e5.mp4"
         },
         {
             "name": "Full Pullups",
             "sets": "3 Sets of 12",
-            "form": [],
-            "tutorial": [],
-            "video": ""
+            "form": [
+                "“Perfect form” for Full Pullups is often debated. You’ll get different answers depending on who you ask. As long as you build up to your technique progressively (without sudden increases in resistance), you should be safe. Aim be able to do all of them!",
+                "It’s common to refer an overhand grip as Pullups and an underhand grip as Chinups. Overhand will have more emphasis on the back and underhand will have more emphasis on the biceps. They are comparable in difficulty. Aim to master both, as well as a neutral grip (thumbs facing back)!",
+                "Having Gymnastic Rings here will allow your hands to rotate freely as you do this exercise.",
+                "Video yourself and watch back between sets to monitor your form!"
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with both arms at shoulder width. Your entire body should be straight and off the ground.",
+                "Ascend slowly until your chest gently touches the bar (or just below).",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/2bVJBWx.mp4"
         },
         {
             "name": "Narrow Pullups",
             "sets": "3 Sets of 9",
-            "form": [],
-            "tutorial": [],
-            "video": ""
+            "form": [
+                "It is usually more comfortable to do this exercise with an underhand or neutral grip.",
+                "“Perfect form” for Pullups is often debated. You’ll get different answers depending on who you ask. As long as you build up to your technique progressively (without sudden increases in resistance), you should be safe. Aim be able to do all of them!",
+                "If you are using Gymnastic Rings, you may be able to do this on one ring. Make sure the single ring can support your weight!",
+                "Video yourself and watch back between sets to monitor your form!"
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with both hands. Your hands should be together. Your entire body should be straight and off the ground.",
+                "Ascend slowly until your chest gently touches your hands.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/2bVJBWx.mp4"
         },
         {
             "name": "One Hand Pullups",
             "sets": "2 Sets of 9 (Both Sides)",
-            "form": [],
-            "tutorial": [],
-            "video": ""
+            "form": [
+                "The lower your supporting hand, the harder the exercise. Start with a grip on your wrist.",
+                "If your supporting hand leaves bruises on your wrist, you may be supporting too much. Over time, allow a firm grip that doesn’t leave bruises. Your working arm will get stronger as a result.",
+                "As with Narrow Pullups, this exercise is usually done with an underhand grip.",
+                "If you are using Gymnastic Rings, you may be able to do this on one ring. Make sure the single ring can support your weight!",
+                "Video yourself and watch back between sets to monitor your form!",
+                "Allow your shoulder blades to move naturally. Retract them at the top and protract them at the bottom."
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with one hand. Use your other hand and placing it on your the wrist of your working arm. ",
+                "Ascend slowly until your chest gently touches your hand.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/1e9FBvf.mp4"
         },
         {
             "name": "Advanced One Hand Pullups",
             "sets": "2 Sets of 9 (Both Sides)",
-            "form": [],
-            "tutorial": [],
-            "video": ""
+            "form": [
+                "The less you assist with your supporting arm, the harder this exercise. Start by gripping firmly and start softening your grip as you approach Level 3 of this exercise. You’ll know you’re almost ready to move on when you feel like you can do this exercise assisting with only a flat palm!",
+                "If your supporting hand leaves bruises on your forearm, you may be supporting too much. Over time, allow a firm grip that doesn’t leave bruises. Your working arm will get stronger as a result.",
+                "As with Narrow Pullups, this exercise is usually done with an underhand grip.",
+                "If you are using Gymnastic Rings, you may be able to do this on one ring. Make sure the single ring can support your weight!",
+                "Video yourself and watch back between sets to monitor your form!"
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with one hand. Use your other hand and placing it on your the forearm of your working arm. ",
+                "Ascend slowly until your chest gently touches your hand.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/5hwNfze.mp4"
         },
         {
             "name": "Archer Pullups",
             "sets": "2 Sets of 9 (Both Sides)",
-            "form": [],
-            "tutorial": [],
-            "video": ""
+            "form": [
+                "The straighter your assisting arm, the more difficult this exercise. You may find it difficult to have a completely straight arm at first. Use a slightly bent arm at first if necessary. Straighten over time.",
+                "Grip position is up to the preferences of the user. If you build the previous exercises with an underhand grip, it’s a good idea to use a mixed grip - underhand with your working arm and overhand with your assisting arm. ",
+                "The width between your hands is slightly dependent on the proportions and mobility of the user. Twice shoulder width is a good starting point for many people.",
+                "If you are doing this exercise on Gymnastic Rings, experiment with the width between the rings. If they’re too wide, the straps may slide. Slightly less than shoulder width seems to work. ",
+                "Video yourself and watch back between sets to monitor your form!"
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with both hands. Your hands should be around twice shoulder width. Your arms should be relatively straight.",
+                "Ascend slowly until your chest gently touches your hand.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/WGzoHXj.mp4"
         },
         {
             "name": "One Arm Pullups",
             "sets": "2 Sets of 6",
-            "form": [],
-            "tutorial": [],
-            "video": ""
+            "form": [
+                "Whatever progressions you use to build up to this step, strive to be able to do it with clean form and without joint pain. Train for strength, health, and ability - not ego!",
+                "Grip position is up to the preferences of the user. Some might find an underhand grip easier, but it appears to be dependent on the individual. Strive to master all grip types.",
+                "If you are using Gymnastic Rings, you may be able to do this on one ring. Make sure the single ring can support your weight!",
+                "Video yourself and watch back between sets to monitor your form!",
+                "Allow your shoulder blades to move naturally. Retract them at the top and protract them at the bottom."
+            ],
+            "tutorial": [
+                "Stand below a horizontal bar or rings",
+                "Firmly grasp the bar with one hand. Your working arm should be straight. ",
+                "Ascend slowly until your chin is above the bar or rings. Allow your free arm to move freely for balance.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/JpfHEWV.mp4"
         }
     ],
     "Squats": [
