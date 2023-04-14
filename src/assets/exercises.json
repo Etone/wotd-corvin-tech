@@ -992,11 +992,236 @@
     ],
     "Squats": [
         {
-            "name": "",
-            "sets": "",
-            "form": [],
-            "tutorial": [],
-            "video": ""
+            "name": "Jackknife Squats",
+            "sets": "3 Sets of 35",
+            "form": [
+                "Your legs should be approximately shoulder width apart.",
+                "Your feet should point forward or slightly out. Don’t point them excessively out.",
+                "Slow and steady wins the race on this exercise. Don’t just speed through these. Find a controlled, rhythmic pace to really feel this movement. 2 Seconds Down, 1 Second Pause, 2 Seconds Up. Repeat.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. The lower back may round at the very bottom of the movement, which is usually fine.",
+                "Find a base from which you can firmly push. If you use a chair or low table, make sure it will not collapse on you and hurt you.",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips - like a jackknife opening! This is the namesake of the exercise and will involve solid upper and lower body engagement. ",
+                "Film yourself and watch back between sets!",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in front of a stable platform around knee height.",
+                "Maintaining straight legs, bend at the hips until your palms are on the platform. Your arms should be relatively straight, as should your waist.",
+                "Squat down slowly, with a slightly forward lean so you may assist with your arms, until your hamstrings are are pressed against your calves. You should not be able to squat any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/e544dTH.mp4"
+        },
+        {
+            "name": "Assisted Squats",
+            "sets": "3 Sets of 30",
+            "form": [
+                "This is a good place to start using Gymnastic Rings, if you happen to have them. You can adjust them to your ideal height. Alternatively, you can use a rope or sturdy railing.",
+                "Your legs should be approximately shoulder width apart.",
+                "Your feet should point forward or slightly out. Don’t point them excessively out.",
+                "Slow and steady wins the race on this exercise. Don’t just speed through these. Find a controlled, rhythmic pace to really feel this movement. 2 Seconds Down, 1 Second Pause, 2 Seconds Up. Repeat.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. The lower back may round at the very bottom of the movement, which is usually fine.",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in front of a stable platform around hip height.",
+                "Maintaining straight legs, bend at the hips until your palms are on the platform. Your arms should be relatively straight, as should your waist.",
+                "Squat down slowly, with a slightly forward lean so you may assist with your arms, until your hamstrings are are pressed against your calves. You should not be able to squat any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/GNREVFX.mp4"
+        },
+        {
+            "name": "Half Squats",
+            "sets": "2 Sets of 50",
+            "form": [
+                "Because this is the first Squat variation where we do not train a full range of motion, always follow this exercise with a few sets of Assisted Squats or Jackknife Squats to maintain strength in this range!",
+                "Some people bend heavily at the hips to make this exercise easier. Don’t make this mistake! Allow a slight forward lean, but squat with your entire lower body.",
+                "Your legs should be approximately shoulder width apart.",
+                "Your feet should point forward or slightly out. Don’t point them excessively out.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time.",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with your feet shoulder width apart.",
+                "Place your arms wherever they feel comfortable. Some extend their arms straight in front of them, and others place them across their chest.",
+                "Squat down slowly until your thighs are parallel with the ground.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/KjUMRFA.mp4"
+        },
+        {
+            "name": "Full Squats",
+            "sets": "2 Sets of 30",
+            "form": [
+                "You may be tempted to “bounce” out of the difficult bottom range. While you might be able to do more reps this way, this will only make you weaker. Aim to control every inch of the movement.",
+                "Some people bend heavily at the hips to make this exercise easier. Don’t make this mistake! Allow a slight forward lean, but squat with your entire lower body.",
+                "Your legs should be approximately shoulder width apart.",
+                "Your feet should point forward or slightly out. Don’t point them excessively out.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with your feet shoulder width apart.",
+                "Place your arms wherever they feel comfortable. Some extend their arms straight in front of them, and others place them across their chest.",
+                "Squat down slowly until your hamstrings are pressed against your calves and you are unable to descend any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/19qy7fY.mp4"
+        },
+        {
+            "name": "Narrow Squats",
+            "sets": "2 Sets of 30",
+            "form": [
+                "This exercise is done with the heels touching. The feet can be pointed forward or slightly out.",
+                "If you lose balance during this exercise, do this near a wall so you can use it balance when needed. Over time, learn this squat without the wall.",
+                "Some people bend heavily at the hips to make this exercise easier. Don’t make this mistake! Allow a slight forward lean, but squat with your entire lower body.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Tighten your core and abs during the movement. You want to feel your body “hinge” at the hips.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with your legs straight and heels touching.",
+                "Place your arms wherever they feel comfortable. Some extend their arms straight in front of them, and others place them across their chest.",
+                "Squat down slowly until your hamstrings are pressed against your calves and you are unable to descend any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/6AUQnW1.mp4"
+        },
+        {
+            "name": "Side Staggered Squats",
+            "sets": "2 Sets of 20 (Both Sides)",
+            "form": [
+                "Work one side at a time during a set. This trains your working muscles to operate under constant tension. ",
+                "The wider your foot positioning, the harder this exercise will be. Start with approximately twice shoulder width if you can!",
+                "Move your arms however you wish to balance this exercise. It does not matter much.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with your legs straight and feet twice shoulder width apart. ",
+                "Place your arms wherever they feel comfortable. Some extend their arms straight in front of them, and others place them across their chest.",
+                "Squat down slowly towards one side until your hamstrings are pressed against your calves and you are unable to descend any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/AVZ3tss.mp4"
+        },
+        {
+            "name": "Front Staggered Squats",
+            "sets": "2 Sets of 15 (Both Sides)",
+            "form": [
+                "The further your assisting foot, the harder the exercise. Work up to having your assisting foot 2 feet away from your working foot.",
+                "Similarly, having your feet shoulder width apart will help your balance. Over time, move your assisting foot directly in front of your working one. This will better simulate the balance necessary for One-Leg Squats",
+                "Work one side at a time during a set. This train your working muscles to operate under constant tension. ",
+                "Move your arms however you wish to balance this exercise. It does not matter much.",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with one foot in front of the other. Your legs should be relatively straight.",
+                "Squat down slowly on your back leg until your hamstrings are pressed against your calves and you are unable to descend any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/yzhzdmh.mp4"
+        },
+        {
+            "name": "Assisted One Leg Squats",
+            "sets": "2 Sets of 12 (Both Sides)",
+            "form": [
+                "The standard for this exercise is assisting yourself with something around waist height. This can be Gymnastic Rings or a stable railing or table. Assist yourself with whatever you can to get started!",
+                "One-Leg Squats look better with your assisting leg straight and parallel with the ground at the bottom of the movement. While this is a good workout for your hip flexors, it’s not necessary to get started. Try to keep it off to the ground, and work on getting your leg straighter and more mobile over time.",
+                "Work one side at a time during a set. This train your working muscles to operate under constant tension. ",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area in front of Gymnastic Rings or a stable assisting platform. ",
+                "Grab the assisting platform with your hands and raise one leg off the ground. Both legs should be straight.",
+                "Squat down slowly on your back leg until your hamstrings are pressed against your calves and you are unable to descend any further.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/C7zcoUu.mp4"
+        },
+        {
+            "name": "One Leg Chair Squats",
+            "sets": "2 Sets of 12 (Both Sides)",
+            "form": [
+                "The standard for this exercise is squatting from a chair around knee height. If this is too difficult and you find yourself falling the last few inches, then experiment with a higher chair. As you get stronger, lower the chair!",
+                "You’ll know you’re making progress with this exercise when you can gently touch the chair with your butt, instead of sitting all the way down!",
+                "One-Leg Squats look better with your assisting leg straight and parallel with the ground at the bottom of the movement. While this is a good workout for your hip flexors, it’s not necessary to get started. Try to keep it off to the ground, and work on getting your leg straighter and more mobile over time.",
+                "Work one side at a time during a set. This train your working muscles to operate under constant tension. ",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area with a safe, stable chair behind you. The chair should be around knee height.",
+                "Raise one leg off the ground. Both legs should be straight. Use your arms to balance however you choose.",
+                "Squat down slowly on one leg until your butt gently touches the chair. ",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/EUV3paL.mp4"
+        },
+        {
+            "name": "One Leg Squats",
+            "sets": "2 Sets of 12 (Both Sides)",
+            "form": [
+                "This exercise is particularly difficult in the bottom range. As a result, you may be tempted to “bounce” out of the bottom. To build strength in this weak point, resist this urge and maintain a brief pause at the bottom.",
+                "As you do more reps, it may be hard to maintain your balance sometimes. Do these by a wall and lightly touch it to maintain your balance when necessary.",
+                "Try to resist your knees “collapsing inward.” Our knees are hinge joints are don’t resist sideways pressure well. A good rule of thumb is to have your knee go over your second toe (next to your big toe).",
+                "One-Leg Squats look better with your assisting leg straight and parallel with the ground at the bottom of the movement. While this is a good workout for your hip flexors, it’s not necessary to get started. Try to keep it off to the ground, and work on getting your leg straighter and more mobile over time.",
+                "Work one side at a time during a set. This train your working muscles to operate under constant tension. ",
+                "Try to keep your back neutral throughout the exercise. This means don’t arch or round your back. This may take some work if you’re not used to it, but you should make progress over time. Your lower back may round at the very bottom. This is usually fine.",
+                "Film yourself and watch back between sets",
+                "As we are building up progressively, it is okay for your knees to go over your toes. Doing this with an exercise we can competently handle will strengthen our joints in tandem with our muscles."
+            ],
+            "tutorial": [
+                "Stand in a safe area.",
+                "Raise one leg off the ground. Both legs should be straight. Use your arms to balance however you choose.",
+                "Squat down slowly on one leg until your hamstrings are pressed firmly against your calves.",
+                "Pause for 1 Second.",
+                "Slowly come back up.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/hgFF2JG.mp4"
         }
     ]
 }
