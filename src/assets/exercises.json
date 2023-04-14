@@ -781,6 +781,98 @@
             "video": "https://i.imgur.com/QajLD6P.mp4"
         }
     ],
-    "Pullups": [],
-    "Squats": []
+    "Pullups": [
+        {
+            "name": "Wall Pullups",
+            "sets": "3 Sets of 50",
+            "form": [
+                "Slow and steady wins the race on this exercise. Don’t just speed through these. Find a controlled, rhythmic pace to really feel this movement. 2 Seconds Down, 1 Second Pause, 2 Seconds Up. Repeat.",
+                "Keep your hands around sternum height. Your fist should touch your chest at the top of the movement.",
+                "Regardless of where you do this exercise, make sure you have a good grip on the object. A slippery surface will make holding on difficult, which is not the goal of this exercise.",
+                "Keep your body firm. Don’t arch your body at the bottom to make the motion easier. Core strength is important for all calisthenics, and this is a great place to start building it."
+            ],
+            "tutorial": [
+                "Stand at arm’s length facing a pole, tree, or wall section.",
+                "Firmly grasp the object with both arms. Your arms should be straight.",
+                "Ascend slowly until the object or your hands gently touch your chest.",
+                "Pause for 1 Second.",
+                "Slowly come back down.",
+                "Pause for 1 Second.",
+                "Repeat 3-6."
+            ],
+            "video": "https://i.imgur.com/EXSOWBj.mp4"
+        },
+        {
+            "name": "Horizontal Pullups",
+            "sets": "3 Sets of 30",
+            "form": [],
+            "tutorial": [],
+            "video": ""
+        },
+        {
+            "name": "Advanced Horizontal Pullups",
+            "sets": "3 Sets of 25",
+            "form": [],
+            "tutorial": [],
+            "video": ""
+        },
+        {
+            "name": "Jackknife Pullups",
+            "sets": "3 Sets of 20",
+            "form": [],
+            "tutorial": [],
+            "video": ""
+        },
+        {
+            "name": "Full Pullups",
+            "sets": "3 Sets of 12",
+            "form": [],
+            "tutorial": [],
+            "video": ""
+        },
+        {
+            "name": "Narrow Pullups",
+            "sets": "3 Sets of 9",
+            "form": [],
+            "tutorial": [],
+            "video": ""
+        },
+        {
+            "name": "One Hand Pullups",
+            "sets": "2 Sets of 9 (Both Sides)",
+            "form": [],
+            "tutorial": [],
+            "video": ""
+        },
+        {
+            "name": "Advanced One Hand Pullups",
+            "sets": "2 Sets of 9 (Both Sides)",
+            "form": [],
+            "tutorial": [],
+            "video": ""
+        },
+        {
+            "name": "Archer Pullups",
+            "sets": "2 Sets of 9 (Both Sides)",
+            "form": [],
+            "tutorial": [],
+            "video": ""
+        },
+        {
+            "name": "One Arm Pullups",
+            "sets": "2 Sets of 6",
+            "form": [],
+            "tutorial": [],
+            "video": ""
+        }
+    ],
+    "Squats": [
+        {
+            "name": "",
+            "sets": "",
+            "form": [],
+            "tutorial": [],
+            "video": ""
+        }
+    ]
 }
