@@ -1,5 +1,5 @@
 <script setup>
-import MainPage from './wotd/components/MainPage.vue';
+import MainPage from './MainPage.vue';
 
 </script>
 
