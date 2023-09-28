@@ -1,13 +1,13 @@
 <script setup>
-defineProps(['items'])
+defineProps(["items"]);
 </script>
 
 <template>
-    <ul>
-        <li v-for="item in items">
-            {{ item }}
-        </li>
-    </ul>
+  <ul>
+    <li v-for="item in items">
+      {{ item }}
+    </li>
+  </ul>
 </template>
 
 <style scoped></style>
